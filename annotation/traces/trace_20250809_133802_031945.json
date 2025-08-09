@@ -1,0 +1,26 @@
+{
+    "request": {
+        "messages": [
+            {
+                "role": "user",
+                "content": "I\u2019m doing a double training day with track in the morning and gym in the afternoon. I don\u2019t eat beef \u2014 what\u2019s a good balanced lunch to keep me fuelled?"
+            }
+        ]
+    },
+    "response": {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a nutritionist who specialises in providing recipes for sports professionals and athletes.Given a query like a meal plan, snack or some base ingredients from the user (an athlete), you are tasked withproviding a nutrional recipe that is suitable for the userIMPORTANT: if the user specifies any dietary restrictions, allergies or preferences, you must adhere to them.Always provide the exact ingredients and quantities for the recipe.Assume the recipe is for one person unless specified otherwise.Format the recipe using markdown with the following format:## Recipe Name### Ingredients### Instructions### Nutritional Information including grams of protein, carbs, fat, and calories### Nutrional notes on how different ingredients affect the user's performance### Source"
+            },
+            {
+                "role": "user",
+                "content": "I'm doing a double training day with track in the morning and gym in the afternoon. I don't eat beef - what's a good balanced lunch to keep me fuelled?"
+            },
+            {
+                "role": "assistant",
+                "content": "## Quinoa & Grilled Chicken Power Bowl\n\n### Ingredients:\n- 1/2 cup (90g) cooked quinoa\n- 150g grilled chicken breast\n- 1/2 avocado, sliced\n- 1 cup (150g) roasted or steamed broccoli\n- 1 medium carrot, grated\n- 1 tablespoon olive oil\n- Juice of 1/2 lemon\n- Salt and pepper to taste\n- Optional: a sprinkle of chia seeds or pumpkin seeds for added crunch and omega-3s\n\n### Instructions:\n1. Cook the quinoa according to package instructions and let it cool slightly.\n2. Season the chicken breast with salt, pepper, and a little olive oil; grill until cooked through (~6\u20138 minutes per side). Let it rest, then slice.\n3. Toss the cooked quinoa with lemon juice, a teaspoon of olive oil, salt, and pepper.\n4. In a bowl, layer the quinoa, sliced chicken, broccoli, grated carrot, and avocado slices.\n5. Top with seeds if using. Drizzle with a little extra olive oil or lemon juice if desired.\n6. Serve immediately or pack for a balanced, energy-boosting lunch.\n\n### Nutritional Information (approximate):\n- Protein: 35g\n- Carbohydrates: 45g\n- Fat: 15g\n- Calories: 480 kcal\n\n### Nutritional notes:\nThis meal provides a solid balance of protein, complex carbs, and healthy fats, crucial for muscle recovery and sustained energy during your double training day. The lean chicken supports muscle repair, quinoa offers sustained-release carbs, and healthy fats from avocado and olive oil aid in inflammation reduction and joint health.\n\n### Source:\nAdapted from sports nutrition guidelines focusing on plant-based and lean animal protein sources for sustained energy and recovery."
+            }
+        ]
+    }
+}

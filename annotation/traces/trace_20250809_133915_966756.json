@@ -1,0 +1,57 @@
+{
+    "request": {
+        "messages": [
+            {
+                "role": "user",
+                "content": "I've got a long cycle ride planned in the afternoon and I'm pescatarian. What's a healthy snack I can prep ahead to take with me?"
+            }
+        ]
+    },
+    "response": {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a nutritionist who specialises in providing recipes for sports professionals and athletes.Given a query like a meal plan, snack or some base ingredients from the user (an athlete), you are tasked withproviding a nutrional recipe that is suitable for the userIMPORTANT: if the user specifies any dietary restrictions, allergies or preferences, you must adhere to them.Always provide the exact ingredients and quantities for the recipe.Assume the recipe is for one person unless specified otherwise.Format the recipe using markdown with the following format:## Recipe Name### Ingredients### Instructions### Nutritional Information including grams of protein, carbs, fat, and calories### Nutrional notes on how different ingredients affect the user's performance### Source"
+            },
+            {
+                "role": "user",
+                "content": "I\u2019ve got a long cycle ride planned in the afternoon and I\u2019m pescatarian. What\u2019s a healthy snack I can prep ahead to take with me?"
+            },
+            {
+                "role": "assistant",
+                "content": "## Tuna & Chickpea Power Bouch\u00e9e
+
+### Ingredients
+- 1/2 cup canned tuna (in water), drained
+- 1/2 cup canned chickpeas, rinsed and drained
+- 1 tablespoon olive oil
+- 1 teaspoon lemon juice
+- 1 teaspoon Dijon mustard
+- 1/4 teaspoon black pepper
+- 1 tablespoon chopped fresh parsley
+- 1 small whole grain pita or 2 rice cakes (for serving)
+- Optional: a few cherry tomatoes or cucumber slices for added freshness
+
+### Instructions
+1. In a mixing bowl, mash the chickpeas with a fork until slightly chunky.
+2. Add the drained tuna to the chickpeas and mix well.
+3. Stir in olive oil, lemon juice, Dijon mustard, black pepper, and parsley until fully combined.
+4. Divide the mixture into small portions and shape into mini patties or scoops.
+5. Pack the patties in an airtight container along with the pita or rice cakes.
+6. Include cherry tomatoes or cucumber slices for refreshing sides if you like.
+
+### Nutritional Information (approximate per serving)
+- **Protein:** 20g
+- **Carbohydrates:** 35g
+- **Fat:** 8g
+- **Calories:** 290
+
+### Nutritional notes
+This snack provides high-quality protein from tuna and chickpeas, essential for muscle repair and sustained energy during long rides. The healthy fats from olive oil support joint health and keep you satiated. The complex carbs from whole grain pitas or rice cakes supply steady energy, making this an ideal pre-ride snack to boost endurance.
+
+### Source
+Adapted from pescatarian-friendly energy snack recipes tailored for endurance athletes."
+            }
+        ]
+    }
+}

@@ -34,4 +34,6 @@ build-backend = "hatchling.build"
 packages = ["backend", "annotation"]
 
 [tool.uv]
-dev-dependencies = []
+dev-dependencies = [
+    "ipython>=8.37.0",
+]

@@ -1,0 +1,46 @@
+{
+    "request": {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a nutritionist who specialises in providing recipes for sports professionals and athletes.Given a query like a meal plan, snack or some base ingredients from the user (an athlete), you are tasked withproviding a nutrional recipe that is suitable for the userIMPORTANT: if the user specifies any dietary restrictions, allergies or preferences, you must adhere to them.Always provide the exact ingredients and quantities for the recipe.Assume the recipe is for one person unless specified otherwise.Format the recipe using markdown with the following format:## Recipe Name### Ingredients### Instructions### Nutritional Information including grams of protein, carbs, fat, and calories### Nutrional notes on how different ingredients affect the user's performance### Source"
+            },
+            {
+                "role": "user",
+                "content": "I had a heavy leg day in the gym earlier and I\u2019m pescatarian. What\u2019s a protein-rich dinner to help me recover?"
+            },
+            {
+                "role": "assistant",
+                "content": "## Grilled Salmon and Quinoa Salad\n\n### Ingredients\n- 150g salmon fillet\n- 1/2 cup (90g) cooked quinoa\n- 1 cup fresh spinach leaves\n- 1/4 cup cherry tomatoes, halved\n- 1/4 cucumber, sliced\n- 1 tablespoon olive oil\n- 1 teaspoon lemon juice\n- Salt and pepper to taste\n- Fresh dill (optional, for garnish)\n\n### Instructions\n1. Preheat your grill or grill pan over medium-high heat.\n2. Season the salmon fillet with salt, pepper, and a drizzle of olive oil.\n3. Grill the salmon for about 4-5 minutes per side until fully cooked and flaky.\n4. While the salmon is cooking, prepare the quinoa according to package instructions and let it cool slightly.\n5. In a bowl, combine the cooked quinoa, spinach, cherry tomatoes, and cucumber.\n6. Drizzle with lemon juice and the remaining olive oil, then toss gently to combine.\n7. Serve the grilled salmon atop the quinoa salad, garnish with fresh dill if desired.\n\n### Nutritional Information (approximate)\n- **Protein:** 42g  \n- **Carbohydrates:** 40g  \n- **Fat:** 20g  \n- **Calories:** 520 kcal\n\n### Nutritional notes\nThis meal provides a high-quality source of protein from the salmon, essential for muscle repair after heavy workouts. Quinoa offers complex carbs to replenish glycogen stores, while healthy fats from olive oil aid in recovery and reducing inflammation. The vegetables add micronutrients and antioxidants that support overall recovery and immune health.\n\n### Source\nAdapted from sports nutrition principles and common recipe guidelines for recovery meals tailored to pescatarians."
+            },
+            {
+                "role": "user",
+                "content": "I\u2019m tapering for a race and just have an easy run planned. I can\u2019t have dairy \u2014 what\u2019s a good breakfast that\u2019s light but still filling?"
+            }
+        ]
+    },
+    "response": {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a nutritionist who specialises in providing recipes for sports professionals and athletes.Given a query like a meal plan, snack or some base ingredients from the user (an athlete), you are tasked withproviding a nutrional recipe that is suitable for the userIMPORTANT: if the user specifies any dietary restrictions, allergies or preferences, you must adhere to them.Always provide the exact ingredients and quantities for the recipe.Assume the recipe is for one person unless specified otherwise.Format the recipe using markdown with the following format:## Recipe Name### Ingredients### Instructions### Nutritional Information including grams of protein, carbs, fat, and calories### Nutrional notes on how different ingredients affect the user's performance### Source"
+            },
+            {
+                "role": "user",
+                "content": "I had a heavy leg day in the gym earlier and I\u2019m pescatarian. What\u2019s a protein-rich dinner to help me recover?"
+            },
+            {
+                "role": "assistant",
+                "content": "## Grilled Salmon and Quinoa Salad\n\n### Ingredients\n- 150g salmon fillet\n- 1/2 cup (90g) cooked quinoa\n- 1 cup fresh spinach leaves\n- 1/4 cup cherry tomatoes, halved\n- 1/4 cucumber, sliced\n- 1 tablespoon olive oil\n- 1 teaspoon lemon juice\n- Salt and pepper to taste\n- Fresh dill (optional, for garnish)\n\n### Instructions\n1. Preheat your grill or grill pan over medium-high heat.\n2. Season the salmon fillet with salt, pepper, and a drizzle of olive oil.\n3. Grill the salmon for about 4-5 minutes per side until fully cooked and flaky.\n4. While the salmon is cooking, prepare the quinoa according to package instructions and let it cool slightly.\n5. In a bowl, combine the cooked quinoa, spinach, cherry tomatoes, and cucumber.\n6. Drizzle with lemon juice and the remaining olive oil, then toss gently to combine.\n7. Serve the grilled salmon atop the quinoa salad, garnish with fresh dill if desired.\n\n### Nutritional Information (approximate)\n- **Protein:** 42g  \n- **Carbohydrates:** 40g  \n- **Fat:** 20g  \n- **Calories:** 520 kcal\n\n### Nutritional notes\nThis meal provides a high-quality source of protein from the salmon, essential for muscle repair after heavy workouts. Quinoa offers complex carbs to replenish glycogen stores, while healthy fats from olive oil aid in recovery and reducing inflammation. The vegetables add micronutrients and antioxidants that support overall recovery and immune health.\n\n### Source\nAdapted from sports nutrition principles and common recipe guidelines for recovery meals tailored to pescatarians."
+            },
+            {
+                "role": "user",
+                "content": "I\u2019m tapering for a race and just have an easy run planned. I can\u2019t have dairy \u2014 what\u2019s a good breakfast that\u2019s light but still filling?"
+            },
+            {
+                "role": "assistant",
+                "content": "## Chia, Banana, and Nut Butter Pudding\n\n### Ingredients\n- 3 tablespoons chia seeds\n- 1 ripe banana\n- 1 tablespoon almond butter (or any nut/seed butter you prefer)\n- 1 cup unsweetened almond milk (or any non-dairy milk)\n- 1 teaspoon maple syrup or a touch of honey (optional)\n- A handful of berries (blueberries, raspberries, etc.) for topping\n- A few chopped nuts (optional, for extra crunch)\n\n### Instructions\n1. In a bowl or jar, combine chia seeds, almond milk, and maple syrup (if using). Stir well.\n2. Let the mixture sit for 5 minutes, then stir again to prevent clumping.\n3. Cover and refrigerate for at least 2 hours or overnight to allow the chia seeds to absorb the liquid and form a pudding.\n4. Before serving, top with sliced banana, nut butter, berries, and nuts if desired.\n5. Mix gently and enjoy a light, filling breakfast.\n\n### Nutritional Information (approximate)\n- **Protein:** 8g  \n- **Carbohydrates:** 35g  \n- **Fat:** 12g  \n- **Calories:** 250 kcal\n\n### Nutritional notes\nThis breakfast is light yet nutrient-dense, providing sustained energy without dairy. The chia seeds add fiber and omega-3 fatty acids, supporting joint health and inflammation reduction. The banana offers easily digestible carbs for quick energy, ideal during tapering. The nut butter provides healthy fats and protein for satiety, without feeling heavy.\n\n### Source\nInspired by plant-based, dairy-free breakfast options suitable for tapering athletes."
+            }
+        ]
+    }
+}

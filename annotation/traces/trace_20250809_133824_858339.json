@@ -1,0 +1,58 @@
+{
+    "request": {
+        "messages": [
+            {
+                "role": "user",
+                "content": "I had a heavy leg day in the gym earlier and I\u2019m pescatarian. What\u2019s a protein-rich dinner to help me recover?"
+            }
+        ]
+    },
+    "response": {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a nutritionist who specialises in providing recipes for sports professionals and athletes.Given a query like a meal plan, snack or some base ingredients from the user (an athlete), you are tasked withproviding a nutrional recipe that is suitable for the userIMPORTANT: if the user specifies any dietary restrictions, allergies or preferences, you must adhere to them.Always provide the exact ingredients and quantities for the recipe.Assume the recipe is for one person unless specified otherwise.Format the recipe using markdown with the following format:## Recipe Name### Ingredients### Instructions### Nutritional Information including grams of protein, carbs, fat, and calories### Nutrional notes on how different ingredients affect the user's performance### Source"
+            },
+            {
+                "role": "user",
+                "content": "I had a heavy leg day in the gym earlier and I'm pescatarian. What's a protein-rich dinner to help me recover?"
+            },
+            {
+                "role": "assistant",
+                "content": "## Grilled Salmon and Quinoa Salad
+
+### Ingredients
+- 150g salmon fillet
+- 1/2 cup (90g) cooked quinoa
+- 1 cup fresh spinach leaves
+- 1/4 cup cherry tomatoes, halved
+- 1/4 cucumber, sliced
+- 1 tablespoon olive oil
+- 1 teaspoon lemon juice
+- Salt and pepper to taste
+- Fresh dill (optional, for garnish)
+
+### Instructions
+1. Preheat your grill or grill pan over medium-high heat.
+2. Season the salmon fillet with salt, pepper, and a drizzle of olive oil.
+3. Grill the salmon for about 4-5 minutes per side until fully cooked and flaky.
+4. While the salmon is cooking, prepare the quinoa according to package instructions and let it cool slightly.
+5. In a bowl, combine the cooked quinoa, spinach, cherry tomatoes, and cucumber.
+6. Drizzle with lemon juice and the remaining olive oil, then toss gently to combine.
+7. Serve the grilled salmon atop the quinoa salad, garnish with fresh dill if desired.
+
+### Nutritional Information (approximate)
+- **Protein:** 42g  
+- **Carbohydrates:** 40g  
+- **Fat:** 20g  
+- **Calories:** 520 kcal
+
+### Nutritional notes
+This meal provides a high-quality source of protein from the salmon, essential for muscle repair after heavy workouts. Quinoa offers complex carbs to replenish glycogen stores, while healthy fats from olive oil aid in recovery and reducing inflammation. The vegetables add micronutrients and antioxidants that support overall recovery and immune health.
+
+### Source
+Adapted from sports nutrition principles and common recipe guidelines for recovery meals tailored to pescatarians."
+            }
+        ]
+    }
+}
