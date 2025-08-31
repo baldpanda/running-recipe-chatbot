@@ -33,7 +33,7 @@ console = Console()
 def load_dietary_queries(csv_path: str) -> List[Dict[str, Any]]:
     """Load dietary preference queries from CSV file."""
     df = pd.read_csv(csv_path)
-    return df.to_dict('records')
+    return df.to_dict('records')[0:10]
 
 def generate_trace(query: str, dietary_restriction: str) -> Dict[str, Any]:
     """Generate a single Recipe Bot trace for a dietary query."""
