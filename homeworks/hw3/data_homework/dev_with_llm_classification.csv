@@ -1,0 +1,1576 @@
+query,dietary_restriction,response,success,error,trace_id,query_id,label,reasoning,confidence,labeled,llm_reasoning,llm_classification
+Vegetarian curry but I don't eat onions or garlic for religious reasons,vegetarian,"Absolutely! Here's a flavorful **Chickpea and Vegetable Coconut Curry** that omits onions and garlic, yet is rich in taste and satisfying. It serves two people.
+
+### Ingredients:
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 1 medium carrot, diced
+- 1 bell pepper (any color), diced
+- 1 zucchini, sliced
+- 1 can (13.5 oz) coconut milk
+- 1 tablespoon olive oil
+- 1 teaspoon ground turmeric
+- 1 teaspoon ground cumin
+- 1 teaspoon smoked paprika
+- 1 teaspoon curry powder
+- Salt and pepper to taste
+- Fresh cilantro for garnish (optional)
+- 1 cup cooked rice or naan for serving
+
+---
+
+### Instructions:
+
+1. **Prepare the vegetables:**  
+   Peel and dice the carrot, chop the bell pepper into bite-sized pieces, and slice the zucchini.
+
+2. **Heat the oil:**  
+   In a large skillet or saucepan, heat the olive oil over medium heat until shimmering.
+
+3. **Add spices:**  
+   Stir in the turmeric, cumin, smoked paprika, and curry powder. Let them cook for about 30 seconds to release their aroma, stirring constantly to prevent burning.
+
+4. **Cook the vegetables:**  
+   Add the diced carrots, bell peppers, and zucchini to the pan. Stir well to coat them with the spices. Sauté for about 5-7 minutes until the vegetables begin to soften.
+
+5. **Add chickpeas and coconut milk:**  
+   Stir in the drained chickpeas and pour in the coconut milk. Mix everything thoroughly.
+
+6. **Simmer:**  
+   Bring the mixture to a gentle simmer. Reduce the heat to low, cover, and let it cook for about 10 minutes, stirring occasionally. The vegetables will become tender, and the flavors will meld.
+
+7. **Finalize and serve:**  
+   Season with salt and pepper to taste. If desired, garnish with fresh cilantro. Serve hot over cooked rice or with naan bread.
+
+---
+
+Enjoy your hearty, onion-and-garlic-free vegetarian curry! Would you like a different type of dish next?",True,,16_19,16,PASS,"The recipe provided is a vegetarian curry that adheres to the specified dietary restriction of being vegetarian. It does not include any meat or fish, and it allows for dairy and eggs, although none are present in this recipe. The recipe also respects the additional request to omit onions and garlic, which are often used in curries but are excluded here for religious reasons. The ingredients used, such as chickpeas, vegetables, coconut milk, and spices, are all suitable for a vegetarian diet. The preparation method does not involve any non-vegetarian techniques or ingredients.",HIGH,True,"The recipe does not contain onions or garlic, aligning with the user's dietary preferences. It consists of chickpeas, vegetables, and spices, making it suitable for a vegetarian diet without any prohibited ingredients.",PASS
+I eat pretty clean most of the time,whole30,"Great! I recommend trying a **Lemon Herb Grilled Chicken Salad**—a light, refreshing, and healthy dish perfect for a clean eating plan. It’s packed with lean protein and fresh greens, and the lemon herb dressing adds brightness without extra processed ingredients.
+
+### Lemon Herb Grilled Chicken Salad (Serves 2)
+
+#### Ingredients:
+- 2 boneless, skinless chicken breasts
+- 1 tablespoon olive oil
+- 1 teaspoon garlic powder
+- 1 teaspoon dried oregano
+- 1 teaspoon dried thyme
+- Salt and pepper to taste
+- 4 cups mixed greens (such as spinach, arugula, and romaine)
+- 1 cucumber, sliced
+- 1 cup cherry tomatoes, halved
+- 1/4 red onion, thinly sliced
+- 1 small avocado, sliced (optional)
+
+#### For the Lemon Herb Dressing:
+- 2 tablespoons extra virgin olive oil
+- Juice of 1 lemon
+- 1 teaspoon honey or maple syrup (optional, for a touch of sweetness)
+- 1 teaspoon Dijon mustard
+- 1 clove garlic, minced
+- Salt and black pepper to taste
+- Fresh chopped parsley or dill (optional)
+
+---
+
+### Instructions:
+
+#### 1. Prepare the Chicken:
+- In a small bowl, mix the garlic powder, oregano, thyme, salt, and pepper.
+- Rub this mixture evenly over both sides of the chicken breasts.
+- Drizzle the olive oil over the chicken and massage it in to coat well.
+
+#### 2. Grill the Chicken:
+- Preheat your grill or grill pan over medium heat.
+- Once hot, add the chicken breasts.
+- Grill for about 6-7 minutes on each side, or until the internal temperature reaches 165°F (75°C) and the juices run clear.
+- Remove from grill and let rest for 5 minutes, then slice into strips.
+
+#### 3. Make the Dressing:
+- In a small bowl or jar, combine the lemon juice, olive oil, honey or maple syrup (if using), Dijon mustard, minced garlic, salt, pepper, and herbs.
+- Whisk or shake until well combined. Adjust seasoning to taste.
+
+#### 4. Assemble the Salad:
+- In a large bowl, toss the mixed greens, cucumber slices, cherry tomatoes, and red onion.
+- Arrange the sliced grilled chicken on top.
+- Drizzle with the lemon herb dressing.
+- Add avocado slices if desired for extra creaminess.
+- Toss gently to combine before serving.
+
+---
+
+### Serving:
+Dish out the salad onto two plates, garnish with extra herbs if you like, and enjoy this vibrant, nourishing meal! It’s perfect for a light lunch or dinner, and you can easily add more vegetables or swap ingredients based on what you have.
+
+Let me know if you'd like me to suggest something else!",True,,51_23,51,FAIL,"The recipe for Lemon Herb Grilled Chicken Salad mostly adheres to the Whole30 dietary restriction, which prohibits grains, dairy, legumes, sugar, alcohol, and processed foods. The main ingredients such as chicken, olive oil, mixed greens, cucumber, cherry tomatoes, red onion, and avocado are compliant with Whole30. However, the recipe includes an optional ingredient in the dressing: honey or maple syrup. Both honey and maple syrup are forms of added sugar, which are not allowed on the Whole30 program. Even though they are optional, their inclusion in the recipe as a suggestion violates the Whole30 guidelines. Therefore, the recipe does not fully comply with the Whole30 dietary restriction.",HIGH,True,"The recipe includes grilled chicken, which is an animal product, and may not align with a clean eating preference that excludes animal proteins. However, it contains fresh vegetables and healthy fats from olive oil and avocado, which are considered clean eating ingredients. Since clean eating varies in interpretation, a strict view might classify it as FAIL due to the chicken.",FAIL
+I'm pescatarian but shellfish makes me sick,pescatarian,"Let's make a delicious Lemon Herb Grilled Salmon. It's a light, flavorful dish perfect for a pescatarian diet without shellfish.  
+
+**Servings:** 2  
+
+### Ingredients:  
+- 2 skinless salmon fillets (about 6 ounces each)  
+- 2 tablespoons olive oil  
+- 1 lemon (zested and juiced)  
+- 2 garlic cloves, minced  
+- 1 teaspoon dried thyme or dill (your choice)  
+- Salt and freshly ground black pepper to taste  
+- Fresh parsley (optional, for garnish)  
+
+### Instructions:  
+
+1. **Prepare the marinade:**  
+   In a small bowl, combine the olive oil, lemon zest, lemon juice, minced garlic, dried thyme or dill, salt, and black pepper. Whisk well until smooth.  
+
+2. **Marinate the salmon:**  
+   Place the salmon fillets in a shallow dish or a resealable plastic bag. Pour the marinade over the fillets, ensuring they are evenly coated. Cover or seal and refrigerate for at least 30 minutes to allow flavors to meld.  
+
+3. **Preheat the grill:**  
+   Heat your grill or grill pan over medium-high heat. Oil the grill grates lightly to prevent sticking.  
+
+4. **Grill the salmon:**  
+   Remove the fillets from the marinade and let any excess drip off. Place the salmon skin-side down (if skin-on) on the grill. Grill for about 4-5 minutes per side, or until the fish flakes easily with a fork and has nice grill marks.  
+
+5. **Serve:**  
+   Transfer the salmon to plates, garnish with chopped parsley if desired, and serve immediately. It pairs beautifully with steamed vegetables or a fresh salad.  
+
+Enjoy your flavorful, shellfish-free pescatarian meal!",True,,55_25,55,PASS,"The recipe for Lemon Herb Grilled Salmon adheres to the pescatarian dietary restriction, which allows for fish and seafood but excludes other meats. The recipe specifically uses salmon, which is a type of fish, and does not include any shellfish, which the query specifies should be avoided due to an allergy. The ingredients listed, such as olive oil, lemon, garlic, thyme or dill, salt, and pepper, are all suitable for a pescatarian diet. The preparation method of grilling is also appropriate and does not introduce any non-pescatarian elements. Therefore, the recipe is compliant with the pescatarian dietary restriction as specified in the query.",HIGH,True,"The recipe includes only salmon and plant-based ingredients, which are suitable for a pescatarian diet and do not contain shellfish.",PASS
+I'm diabetic but I want to make a fruit cake for Christmas. My grandmother's recipe has tons of sugar and dried fruit but it's tradition and I can't just skip it this year. Is there any way to modify it so I can still participate in the family tradition without spiking my blood sugar?,diabetic-friendly,"Absolutely! You can enjoy a festive fruit cake that aligns with your health needs by making some smart modifications. Here’s a delicious and diabetic-friendly **Low-Sugar Fruit Cake** that captures the spirit of tradition while being mindful of blood sugar levels. This recipe uses natural sweetness, fiber-rich ingredients, and healthier alternatives.
+
+### Diabetic-Friendly Christmas Fruit Cake (Serves 2)
+
+#### Ingredients:
+- 1/2 cup canned crushed pineapple in juice, drained (unsweetened or no added sugar)
+- 1/2 cup chopped dried apricots (unsweetened)
+- 1/4 cup chopped dried cherries or cranberries (unsweetened)
+- 1/4 cup chopped walnuts or almonds
+- 1 cup almond flour
+- 1/4 cup coconut flour
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon ground ginger
+- 1/4 teaspoon ground nutmeg
+- 1 teaspoon baking powder
+- 2 large eggs
+- 1/4 cup unsweetened applesauce
+- 2 tablespoons tahini or melted coconut oil
+- 1 teaspoon vanilla extract
+- Optional: a splash of rum extract or almond extract for flavor
+
+#### Instructions:
+
+1. **Preheat your oven** to 350°F (175°C). Line a small baking dish (about 8x4 inches) with parchment paper or lightly grease it.
+
+2. **Prepare the dried fruits:** In a medium bowl, mix the chopped dried apricots, cherries, and pineapple. If you like, soak them in a tablespoon of rum extract or vanilla for 10 minutes to enhance flavor.
+
+3. **Mix the dry ingredients:** In a larger bowl, combine the almond flour, coconut flour, cinnamon, ginger, nutmeg, and baking powder. Stir well to distribute the spices evenly.
+
+4. **Whisk the wet ingredients:** In a separate bowl, beat the eggs, then add the applesauce, coconut oil, and vanilla extract. Mix until smooth.
+
+5. **Combine wet and dry:** Pour the wet mixture into the dry ingredients. Stir until just combined. Fold in the soaked dried fruits and chopped nuts.
+
+6. **Bake the cake:** Transfer the batter into your prepared baking dish, smoothing the top with a spatula. Bake for about 25-30 minutes, or until a toothpick inserted in the center comes out clean.
+
+7. **Cool and serve:** Allow the cake to cool in the dish for 10 minutes, then transfer to a wire rack. Slice into 2 servings and savor a piece of festive, low-sugar indulgence!
+
+#### Tips:
+- You can add some grated orange or lemon zest for extra holiday brightness.
+- Serve with a dollop of unsweetened Greek yogurt for added creaminess.
+
+Enjoy your healthy twist on a beloved tradition! Would you like a sugar-free frosting suggestion or a way to incorporate more festive flavors?",True,,22_7,22,PASS,"The recipe response provides a modified version of a traditional fruit cake that aims to be diabetic-friendly by reducing sugar content and using ingredients with a lower glycemic index. The recipe replaces high-sugar ingredients with unsweetened dried fruits and uses almond flour and coconut flour instead of traditional wheat flour, which helps in controlling carbohydrate intake. The use of unsweetened applesauce and tahini or coconut oil as fat sources also contributes to a lower glycemic impact. However, dried fruits, even when unsweetened, can still have a significant sugar content and glycemic impact, which might not be ideal for all individuals with diabetes. The recipe does not include any added sugars, which aligns with diabetic-friendly guidelines. Overall, the recipe makes reasonable modifications to reduce the glycemic load while maintaining the essence of a fruit cake.",MEDIUM,True,"The recipe includes unsweetened dried fruits and other ingredients that align with a diabetic-friendly diet, making it suitable for the user who is diabetic.",PASS
+I avoid processed foods but I'm lazy,paleo,"Let's go for a quick and nutritious Meal: **Garlic Lemon Chickpea Salad**. It’s super simple, packed with protein, and requires minimal prep, suitable for a lazy day with basic ingredients. Serves 2.
+
+### Ingredients:
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 1-2 cloves garlic, minced
+- 1 lemon (for juice and zest)
+- 2 tbsp olive oil
+- Salt and black pepper to taste
+- Optional: fresh herbs like parsley or cilantro, chopped
+
+### Steps:
+
+1. **Prepare the chickpeas:** Drain and rinse the chickpeas thoroughly under cold water. Set aside in a mixing bowl.
+
+2. **Make the dressing:** In a small bowl or jar, combine the juice of 1 lemon, 2 tablespoons of olive oil, and the minced garlic. Add a pinch of salt and black pepper to taste. Whisk everything together until well combined. If you like, add some lemon zest for extra zing.
+
+3. **Assemble the salad:** Pour the dressing over the chickpeas and toss gently to coat all the beans evenly.
+
+4. **Add herbs (optional):** If you have fresh parsley or cilantro, sprinkle some on top for added flavor and color.
+
+5. **Serve:** Divide the salad into two bowls. It can be enjoyed immediately or chilled for 10-15 minutes for a more refreshing taste.
+
+### Tip:
+Eat as-is for a quick, healthy snack or side dish. For extra nutritional punch, serve with a slice of whole grain bread or over a bed of greens if you have them.
+
+Enjoy your no-fuss, nourishing meal!",True,,46_19,46,FAIL,"The recipe for Garlic Lemon Chickpea Salad includes chickpeas, which are legumes. The paleo diet restricts the consumption of legumes, as they are not considered part of the diet that mimics what was presumably eaten during the Paleolithic era. Additionally, the use of canned chickpeas could be considered a processed food, which is also not aligned with the paleo dietary restriction. Therefore, the recipe does not adhere to the paleo guidelines.",HIGH,True,"The recipe includes canned chickpeas, which may be considered processed food by some definitions. However, the use of canned beans is often acceptable for quick meals and minimal preparation. If the user strictly avoids all processed items, it could break the dietary preference.",FAIL
+I'm vegan but I really want to make something with honey - is there a good substitute? i am craving a yogurt breakfast,vegan,"Absolutely! For a vegan breakfast yogurt that uses honey, you can substitute honey with maple syrup or agave nectar for sweetness. To keep it creamy and satisfying, I recommend making a vegan coconut yogurt with fresh fruit and nuts. Here's a delicious and simple recipe for a Vegan Coconut & Fruit Parfait for 2 people:
+
+### Vegan Coconut & Fruit Parfait
+
+**Ingredients:**
+- 1 cup unsweetened coconut yogurt (store-bought or homemade)
+- 2 tablespoons maple syrup or agave nectar (for the honey substitute)
+- 1 teaspoon pure vanilla extract
+- 1 cup fresh berries (strawberries, blueberries, raspberries)
+- 1 ripe banana, sliced
+- 1/4 cup granola (preferably vegan)
+- 2 tablespoons chopped nuts (almonds, walnuts, or pecans)
+- Optional: shredded coconut for topping
+
+**Instructions:**
+
+1. **Prepare the Yogurt Layer:**  
+   In a small bowl, combine the coconut yogurt with the maple syrup (or agave nectar) and vanilla extract. Mix well until the sweetness is evenly distributed. This will add a touch of sweetness similar to honey.
+
+2. **Layer the Parfaits:**  
+   Take two clear glasses or bowls. Start by spooning a generous layer of the sweetened coconut yogurt into the bottom of each.
+
+3. **Add Fruits and Nuts:**  
+   Add a layer of fresh berries and banana slices on top of the yogurt. Sprinkle some chopped nuts over the fruits for crunch.
+
+4. **Repeat Layers:**  
+   Add another layer of coconut yogurt, then more berries, banana, and nuts. Finish with a final dollop of yogurt on top.
+
+5. **Top and Serve:**  
+   Garnish with a sprinkle of granola, shredded coconut, or additional berries for visual appeal. Serve immediately to enjoy the freshness and crunch.
+
+This parfait makes a filling, nutritious breakfast perfect for 2 people. The natural sweetness from fruit combined with maple syrup gives you that honey-like taste without compromising your vegan lifestyle. Enjoy your delicious vegan breakfast!",True,,1_35,1,PASS,"The recipe response adheres to the vegan dietary restriction by substituting honey with maple syrup or agave nectar, both of which are plant-based sweeteners. The use of coconut yogurt instead of dairy yogurt ensures that no animal products are included. All other ingredients, such as fresh berries, banana, granola, and nuts, are plant-based and suitable for a vegan diet. The preparation method does not involve any non-vegan processes, ensuring the recipe is fully compliant with vegan standards.",HIGH,True,"The recipe is entirely vegan and uses maple syrup or agave nectar as a substitute for honey, adhering to the user's dietary preferences.",PASS
+I'm vegan but I really want to make something with honey - is there a good substitute? i am craving a yogurt breakfast,vegan,"Absolutely! Since you're vegan and craving a honey-sweetened yogurt breakfast, I recommend making a **Vegan Coconut & Maple Milk Parfait**. It’s a creamy, sweet, and satisfying dish that mimics the delightful experience of a honey-sweetened yogurt breakfast. Instead of honey, we'll use maple syrup, which is vegan-friendly.
+
+### Vegan Coconut & Maple Milk Parfait (Serves 2)
+
+#### Ingredients:
+- 1 cup canned coconut milk (full-fat for creaminess)
+- 2 tbsp maple syrup (or agave nectar if preferred)
+- 1 tsp vanilla extract
+- 1 cup vegan Greek-style yogurt (like almond or coconut-based)
+- 1/2 cup granola (preferably vegan-friendly)
+- 1/2 cup fresh berries (strawberries, blueberries, or raspberries)
+- 2 tbsp chopped nuts (almonds, walnuts, or pecans)
+- Fresh mint leaves (optional, for garnish)
+
+#### Instructions:
+
+1. **Prepare the Coconut Base:**
+   - In a small bowl, whisk the coconut milk with the maple syrup and vanilla extract until smooth and well combined. This will create a sweet, creamy coconut milk mixture that adds flavor and richness.
+
+2. **Layer the Parfaits:**
+   - Take two glasses or jars. In each, add a generous spoonful of vegan yogurt at the bottom.
+   - Drizzle some of the coconut milk mixture over the yogurt—about a tablespoon per layer.
+   - Add a layer of granola, then a handful of fresh berries.
+   - Repeat the layers once more: yogurt, coconut milk mixture, granola, berries.
+
+3. **Finish and Garnish:**
+   - Top each parfait with a final dollop of vegan yogurt, a drizzle of the coconut-milk mixture, some chopped nuts, and a few berries for decoration.
+   - Garnish with a sprig of fresh mint if desired.
+
+4. **Serve:**
+   - Enjoy immediately for the freshest texture, or chill for 10-15 minutes for a cooler, more refreshing experience.
+
+This parfait combines creaminess, natural sweetness, crunch, and fresh fruit—perfect for a vegan breakfast that satisfies your craving for something sweet and creamy!",True,,1_37,1,PASS,"The recipe response adheres to the vegan dietary restriction by substituting honey with maple syrup, which is a vegan-friendly sweetener. All other ingredients listed, such as canned coconut milk, vegan Greek-style yogurt, granola, fresh berries, and nuts, are plant-based and do not contain any animal products. The preparation method does not involve any non-vegan processes. Therefore, the recipe is suitable for a vegan diet.",HIGH,True,"The recipe uses maple syrup as a substitute for honey, which is vegan-friendly. All other ingredients are also compliant with a vegan diet.",PASS
+Vegetarian pizza but I don't like mushrooms or bell peppers,vegetarian,"Great! Here's a delicious Vegetarian Margherita Pizza that skips mushrooms and bell peppers. It’s simple, flavorful, and perfect for two servings.
+
+**Ingredients:**
+
+- 1 pack of pre-made pizza dough (about 250g)
+- 1/2 cup tomato sauce (preferably passata or crushed tomatoes)
+- 1 cup fresh mozzarella cheese, sliced
+- 1 small zucchini, thinly sliced
+- 1 small red onion, thinly sliced
+- A handful of cherry tomatoes, halved
+- 2 fresh basil leaves, chopped
+- 1-2 tablespoons olive oil
+- Salt and freshly ground black pepper, to taste
+- Optional: a pinch of dried oregano or Italian herbs
+
+**Instructions:**
+
+1. **Preheat the Oven**  
+   Set your oven to 220°C (430°F). Place a baking sheet or pizza stone inside to heat up for at least 15 minutes. This helps achieve a crispy crust.
+
+2. **Prepare the Dough**  
+   Lightly flour a clean surface and roll out the pizza dough into a circle about 12 inches in diameter. Transfer it carefully onto a piece of parchment paper for easy handling.
+
+3. **Add the Tomato Sauce**  
+   Spread the tomato sauce evenly over the surface of the dough, leaving about 1 inch around the edges for the crust. Use a spoon to spread it gently, ensuring a thin, even layer.
+
+4. **Arrange the Toppings**  
+   Evenly distribute slices of fresh mozzarella over the sauce. Add the thin slices of zucchini and red onion. Place cherry tomato halves sporadically around the pizza for burst of sweetness.
+
+5. **Season and Drizzle**  
+   Sprinkle a pinch of salt, black pepper, and dried oregano or Italian herbs if desired. Drizzle the olive oil over the top to enhance flavor and help crust crispiness.
+
+6. **Bake the Pizza**  
+   Carefully transfer the parchment paper with the pizza onto the preheated baking sheet or stone. Bake for 12-15 minutes, or until the crust is golden and crispy, and the cheese is bubbling.
+
+7. **Finish and Serve**  
+   Remove the pizza from the oven and sprinkle with chopped basil leaves for a fresh aroma. Let it rest for a couple of minutes, then slice and enjoy!
+
+**Enjoy your vibrant, mushroom- and bell pepper-free vegetarian pizza!**",True,,5_6,5,PASS,"The recipe provided is for a Vegetarian Margherita Pizza, which adheres to the vegetarian dietary restriction. The ingredients listed include pre-made pizza dough, tomato sauce, fresh mozzarella cheese, zucchini, red onion, cherry tomatoes, basil, olive oil, salt, black pepper, and optional dried oregano or Italian herbs. All these ingredients are suitable for a vegetarian diet as they do not contain any meat or fish. The preparation method involves baking, which does not introduce any non-vegetarian elements. The recipe also respects the query by excluding mushrooms and bell peppers, which the user dislikes.",HIGH,True,"The recipe does not include mushrooms or bell peppers, adhering to the user's dietary preferences for a vegetarian pizza.",PASS
+I want something light but filling,low-carb,"Certainly! I recommend trying a **Grilled Chicken and Veggie Quinoa Salad**. It’s light yet satisfying, packed with protein and fresh flavors. This recipe serves 2 people.
+
+### Ingredients:
+- 1/2 cup quinoa
+- 2 chicken breasts (about 150g each)
+- 1 red bell pepper
+- 1 zucchini
+- 1 tablespoon olive oil
+- Juice of 1 lemon
+- Salt and pepper to taste
+- 1 teaspoon dried oregano or Italian herbs
+- A handful of fresh parsley or cilantro (optional)
+
+### Instructions:
+
+#### 1. Prepare the Quinoa:
+- Rinse the quinoa under cold water using a fine mesh sieve to remove bitterness.
+- In a medium pot, combine 1 cup of water with the quinoa. Bring to a boil over medium-high heat.
+- Once boiling, reduce the heat to low, cover, and simmer for about 15 minutes, or until the water is absorbed and the quinoa is fluffy.
+- Remove from heat and let it cool slightly.
+
+#### 2. Prepare the Chicken:
+- Season the chicken breasts with salt, pepper, and dried oregano or Italian herbs.
+- Heat a grill pan or outdoor grill over medium-high heat, brushing lightly with 1 teaspoon of olive oil.
+- Grill the chicken for about 6-7 minutes per side, or until fully cooked (internal temperature of 165°F or 75°C). Once cooked, let it rest for a few minutes, then slice into thin strips.
+
+#### 3. Prepare the Vegetables:
+- While the chicken is grilling, cut the red bell pepper and zucchini into thin strips.
+- Toss the sliced vegetables with 1 teaspoon of olive oil, salt, pepper, and a splash of lemon juice.
+- Grill the vegetables on the same grill pan for about 3-4 minutes per side, until tender and slightly charred.
+
+#### 4. Assemble the Salad:
+- In a large mixing bowl, combine the cooked quinoa, grilled vegetables, and sliced chicken.
+- Squeeze fresh lemon juice over the mixture, adjust salt and pepper as needed.
+- Toss gently to combine, then sprinkle with chopped fresh parsley or cilantro if desired.
+
+### Serving:
+Divide the salad evenly between two plates. You can add a drizzle of olive oil or extra lemon juice for extra flavor. This light, filling salad pairs well with a cold glass of sparkling water or a light white wine.
+
+Enjoy your healthy, satisfying meal!",True,,42_1,42,FAIL,"The recipe includes quinoa, which is a grain and contains carbohydrates. A typical serving of quinoa (1/2 cup cooked) contains approximately 20-25g of carbohydrates, which is quite high for a low-carb diet that typically restricts daily carbohydrate intake to less than 50g. Additionally, the recipe does not specify any low-carb modifications or alternatives to reduce the carbohydrate content. While the grilled chicken and vegetables are low in carbs, the inclusion of quinoa makes this recipe unsuitable for a low-carb dietary restriction.",HIGH,True,"The recipe includes chicken as an ingredient, which does not adhere to a vegan diet. Therefore, it breaks the user's dietary preferences.",FAIL
+Dairy-free but cheese is okay sometimes,dairy-free,"Great! I recommend trying a **Creamy Coconut Curry with Vegetables**. It's a flavorful and nutritious dish that’s dairy-free, but you can add a bit of cheese on the side if desired. Here's a recipe for 2 servings:
+
+### Ingredients:
+- 1 tablespoon coconut oil or vegetable oil
+- 1 small onion, finely chopped
+- 2 cloves garlic, minced
+- 1 thumb-sized piece of ginger, grated
+- 1 medium carrot, sliced
+- 1 bell pepper (any color), sliced
+- 1 zucchini, sliced
+- 1 cup canned chickpeas, drained and rinsed
+- 1 can (13.5 oz) coconut milk
+- 1 teaspoon curry powder
+- 1/2 teaspoon turmeric
+- 1/2 teaspoon ground cumin
+- Salt and pepper to taste
+- Fresh cilantro, chopped (optional, for garnish)
+- Lime wedges (optional, for serving)
+- Cheese (optional, for topping)
+
+### Instructions:
+1. **Heat the oil:** In a large skillet or saucepan, heat the coconut oil over medium heat until shimmering.
+
+2. **Sauté aromatics:** Add the chopped onion and cook for about 3-4 minutes until softened and translucent. Add the minced garlic and grated ginger, cooking for another minute until fragrant.
+
+3. **Add spices:** Stir in the curry powder, turmeric, cumin, salt, and pepper. Cook for about 30 seconds to release their aromas.
+
+4. **Cook vegetables:** Add the sliced carrot, bell pepper, and zucchini. Stir well to coat everything evenly with the spices. Cook for about 5-7 minutes until vegetables start to soften.
+
+5. **Pour in coconut milk:** Add the coconut milk and chickpeas, stirring to combine. Bring the mixture to a gentle simmer.
+
+6. **Simmer:** Reduce the heat to low, cover, and let simmer for 10-15 minutes until the vegetables are tender and the flavors meld together.
+
+7. **Taste and adjust:** Check seasoning and add more salt or spices if needed.
+
+8. **Serve:** Ladle the curry into bowls, garnish with chopped cilantro, and add lime wedges if desired. You can serve it with rice or naan on the side.
+
+### Optional cheese topping:
+If you like, sprinkle a little grated cheese (like feta or a mild cheddar) on top just before serving for an extra flavor burst.
+
+Enjoy your creamy, dairy-free coconut curry!",True,,47_31,47,FAIL,"The recipe for Creamy Coconut Curry with Vegetables is primarily dairy-free, as it uses coconut milk instead of dairy milk for creaminess. However, the recipe includes an optional cheese topping, which directly contradicts the dairy-free dietary restriction. While the query mentions that cheese is okay sometimes, the specified dietary restriction is strictly dairy-free, which does not allow for any cheese. Therefore, the inclusion of cheese, even as an optional ingredient, violates the dairy-free requirement.",HIGH,True,"The recipe is primarily dairy-free and allows for the optional addition of cheese, which aligns with the user's preference for dairy-free meals with occasional cheese. Therefore, it adheres to the user's dietary preferences.",PASS
+Sugar-free dessert that doesn't taste like sadness,sugar-free,"Let's make a delightful **Matcha Coconut Mousse** — a sugar-free, creamy, vibrant dessert that's sure to lift your spirits! It combines the earthy sweetness of matcha with the richness of coconut, resulting in a luxurious treat without any added sugar.
+
+### Ingredients (serves 2):
+- 1 can (13.5 oz) full-fat coconut milk or coconut cream
+- 2 teaspoons matcha powder (culinary grade for a vibrant flavor)
+- 1 teaspoon vanilla extract
+- 1 or 2 tablespoons erythritol or monk fruit sweetener (adjust to taste)
+- A pinch of salt
+- Fresh berries or mint leaves for garnish (optional)
+
+### Instructions:
+
+1. **Chill the Coconut**: Place the can of coconut milk or cream in the refrigerator overnight. This helps the thick cream separate from the liquid, making it easier to whip.
+
+2. **Prepare the Matcha**: In a small bowl, sift the matcha powder to remove lumps. Add about 2 tablespoons of warm water to the matcha and whisk until smooth. This creates a concentrated paste, ensuring no clumps in your mousse.
+
+3. **Whip the Coconut**: Open the chilled coconut can. Carefully scoop out the thick coconut cream into a mixing bowl, avoiding the watery part. Using a hand mixer or whisk, beat the coconut until smooth and fluffy, about 2-3 minutes.
+
+4. **Combine Flavors**: Add the vanilla extract, sweetener, a pinch of salt, and the prepared matcha paste to the whipped coconut. Mix gently until everything is well incorporated and the mousse has a vibrant green color.
+
+5. **Chill the Mousse**: Spoon the mixture into serving glasses or bowls. Refrigerate for at least 1 hour to allow the flavors to meld and the mousse to set.
+
+6. **Serve and Garnish**: Before serving, optionally garnish with fresh berries or a sprig of mint for added color and flavor.
+
+### Enjoy this rich, sugar-free matcha coconut mousse — a luscious dessert that’s both satisfying and guilt-free!",True,,37_33,37,PASS,"The recipe for Matcha Coconut Mousse adheres to the sugar-free dietary restriction as it does not include any added sugars or high-sugar ingredients. Instead, it uses erythritol or monk fruit sweetener, which are both sugar substitutes that do not contribute to sugar content. The rest of the ingredients, such as coconut milk, matcha powder, and vanilla extract, do not contain added sugars. The preparation method also does not introduce any sugar-containing elements.",HIGH,True,"The recipe uses erythritol or monk fruit sweetener to provide sweetness without added sugar, adhering to the user's request for a sugar-free dessert. All other ingredients are compatible with a sugar-free dietary preference.",PASS
+I avoid processed foods but I'm lazy,paleo,"Great! How about a simple, wholesome Spaghetti Aglio e Olio? It’s quick, requires minimal ingredients, and is free of processed foods. Perfect for a lazy day!
+
+### Spaghetti Aglio e Olio (Serves 2)
+
+#### Ingredients:
+- 200g (7 oz) spaghetti
+- 4 cloves garlic, thinly sliced
+- 1/4 cup extra virgin olive oil
+- 1/2 teaspoon chili flakes (optional, for a bit of heat)
+- Salt, to taste
+- Fresh parsley, chopped (about 2 tablespoons)
+- Freshly ground black pepper
+- Grated Parmesan cheese (optional, but not processed if you have good quality)
+
+#### Instructions:
+
+1. **Cook the Pasta:** Bring a large pot of salted water to a boil. Add the spaghetti and cook according to the package instructions until al dente (about 8-10 minutes). Once cooked, reserve 1/4 cup of pasta water and then drain the pasta.
+
+2. **Prepare the Flavored Oil:** While the pasta cooks, heat the olive oil in a large skillet over medium heat. Add the sliced garlic and chili flakes (if using). Sauté gently, stirring constantly, for about 2-3 minutes until the garlic turns golden and fragrant. Be careful not to burn it, as burnt garlic becomes bitter.
+
+3. **Combine Pasta and Flavored Oil:** Add the drained spaghetti directly into the skillet with the garlic oil. Toss well to coat all strands. If it seems dry, add a splash of the reserved pasta water to loosen it up.
+
+4. **Finish and Serve:** Remove from heat. Stir in chopped parsley, a pinch of salt, and freshly ground black pepper to taste. If you like, sprinkle with some grated Parmesan cheese and give it another toss.
+
+5. **Plate and Enjoy:** Serve immediately with a fresh salad or some crusty bread on the side.
+
+This dish is all about flavor with minimal effort—perfect for a lazy but wholesome meal!",True,,46_3,46,FAIL,"The recipe for Spaghetti Aglio e Olio does not adhere to the paleo dietary restriction. The primary ingredient, spaghetti, is made from wheat, which is a grain and not allowed on a paleo diet. Additionally, the optional use of Parmesan cheese is a dairy product, which is also not permitted in paleo. The recipe also suggests serving with crusty bread, another grain-based product. While the recipe avoids processed foods, it does not meet the paleo criteria due to the inclusion of grains and dairy.",HIGH,True,"The recipe for Spaghetti Aglio e Olio is made with simple ingredients like spaghetti, garlic, olive oil, chili flakes, salt, parsley, and black pepper. It does not contain any processed foods, aligning with the user's dietary preference to avoid processed foods.",PASS
+Halal pasta recipe - is that even a thing?,halal,"Absolutely! Halal pasta recipes are very common and delicious. Here's a flavorful and easy-to-make **Halal Chicken and Vegetable Pasta** that serves 2 people. It uses simple ingredients and embraces Halal dietary guidelines.
+
+### Halal Chicken and Vegetable Pasta
+
+#### Ingredients:
+- 200g (about 7 oz) of your favorite pasta (penne, spaghetti, or fusilli)
+- 2 boneless, skinless Halal chicken breasts, diced
+- 2 tablespoons olive oil
+- 3 cloves garlic, minced
+- 1 small onion, finely chopped
+- 1 bell pepper (any color), sliced
+- 1 medium zucchini, sliced
+- 1 cup cherry tomatoes, halved
+- Salt and freshly ground black pepper, to taste
+- 1 teaspoon dried oregano or Italian seasoning
+- 1/2 teaspoon paprika (optional, for color)
+- Fresh basil or parsley, chopped (for garnish)
+- Grated Parmesan cheese (optional, if you eat dairy)
+
+---
+
+### Instructions:
+
+**1. Cook the Pasta:**  
+Bring a large pot of salted water to a boil. Add the pasta and cook according to the package instructions until al dente. Drain and set aside, reserving about 1/4 cup of pasta water.
+
+**2. Prepare the Chicken:**  
+While the pasta cooks, heat 1 tablespoon of olive oil in a large skillet over medium-high heat.  
+Add the diced chicken breasts, season with salt, pepper, and paprika. Cook until golden brown and cooked through, about 6-8 minutes. Remove chicken from the skillet and set aside.
+
+**3. Sauté the Vegetables:**  
+In the same skillet, add the remaining 1 tablespoon of olive oil.  
+Add the chopped onion and minced garlic; sauté until fragrant and translucent, about 2 minutes.  
+Add the sliced bell peppers and zucchini. Cook until tender, about 5 minutes.  
+Add the cherry tomatoes, season with a pinch of salt, pepper, and the dried herbs. Cook for another 2 minutes until tomatoes soften.
+
+**4. Combine Everything:**  
+Return the cooked chicken to the skillet with the vegetables.  
+Add the cooked pasta to the skillet. If the mixture seems dry, add a splash of the reserved pasta water to loosen it up.  
+Mix well to combine, allowing the flavors to meld for a minute or two.
+
+**5. Serve:**  
+Plate the pasta onto serving dishes. Garnish with chopped fresh basil or parsley. If desired, sprinkle with grated Parmesan cheese.
+
+---
+
+### Serving Suggestions:
+Serve this pasta hot with a side of fresh salad or garlic bread. It makes a wholesome and flavorful Halal-friendly meal for two!
+
+Would you like a vegetarian version or other ingredient suggestions?",True,,28_28,28,PASS,"The recipe for Halal Chicken and Vegetable Pasta adheres to Halal dietary restrictions. The key ingredient, chicken, is specified as Halal, which means it has been slaughtered according to Islamic law. The other ingredients, such as pasta, vegetables, olive oil, and seasonings, are inherently Halal and do not violate any Halal guidelines. The optional use of Parmesan cheese is permissible in Halal diets as long as the cheese is made with microbial or Halal-certified rennet. The cooking methods described do not involve any prohibited practices or ingredients. Therefore, the recipe is suitable for someone following a Halal diet.",HIGH,True,"The recipe exclusively uses Halal ingredients such as Halal chicken, vegetables, and optional dairy that adheres to Halal guidelines, making it suitable for someone looking for a Halal pasta recipe.",PASS
+I'm on a sugar-free diet but I want to make candy,sugar-free,"Absolutely! Here's a delightful sugar-free recipe for **Chocolate Coconut Bites**—a delicious, guilt-free candy perfect for satisfying your sweet tooth.
+
+### Ingredients:
+- 1 cup unsweetened shredded coconut
+- 1/4 cup coconut oil
+- 2 tablespoons erythritol or monk fruit sweetener (adjust to taste)
+- 1 teaspoon vanilla extract
+- Pinch of salt
+- 2 tablespoons cocoa powder (unsweetened)
+
+### Instructions:
+
+1. **Prepare the Mixture:**  
+   In a medium mixing bowl, combine the unsweetened shredded coconut, erythritol (or chosen sweetener), cocoa powder, and a pinch of salt. Mix well to distribute the dry ingredients evenly.
+
+2. **Add Wet Ingredients:**  
+   In a small saucepan, gently melt the coconut oil over low heat until just liquid. Remove from heat and stir in the vanilla extract.
+
+3. **Combine:**  
+   Pour the melted coconut oil mixture into the dry ingredients. Use a spoon to mix thoroughly until all ingredients are well combined and the mixture holds together when pressed.
+
+4. **Form the Bites:**  
+   Line a baking sheet or tray with parchment paper. Using your hands, form the mixture into small 1-inch balls or bite-sized shapes. Place them on the parchment paper, spacing them apart.
+
+5. **Chill:**  
+   Refrigerate the bites for at least 30 minutes until firm.
+
+6. **Serve:**  
+   Once set, enjoy these chocolate coconut bites! They make approximately 8-10 pieces, perfect for sharing or savoring over a couple of days.
+
+### Tips:
+- If you prefer a softer texture, add a tiny bit more coconut oil.
+- For added flavor, sprinkle a few crushed nuts or a dash of cinnamon on top before chilling.
+
+Enjoy your sugar-free treat that's both satisfying and healthy!",True,,26_29,26,PASS,"The recipe for Chocolate Coconut Bites adheres to the sugar-free dietary restriction. It uses erythritol or monk fruit sweetener, both of which are sugar substitutes that do not contribute to added sugar content. The recipe avoids any high-sugar ingredients and relies on unsweetened cocoa powder and unsweetened shredded coconut, which do not contain added sugars. The preparation method does not introduce any sugar-containing ingredients, ensuring the final product remains sugar-free.",HIGH,True,"The recipe uses erythritol or monk fruit sweetener, which are acceptable sugar substitutes for a sugar-free diet, and does not contain any added sugars. The ingredients adhere to the user's sugar-free preference.",PASS
+Vegan protein smoothie that doesn't taste chalky,vegan,"Certainly! Here's a delicious and creamy vegan protein smoothie that avoids that chalky taste. It’s smooth, naturally sweet, and packed with flavor. The recipe is for 2 servings.
+
+**Creamy Banana & Berry Vegan Protein Smoothie**
+
+**Ingredients:**
+- 2 ripe bananas
+- 1 cup frozen mixed berries (strawberries, blueberries, raspberries)
+- 1 tablespoon chia seeds (optional, for added nutrition)
+- 1 tablespoon almond butter or peanut butter
+- 2 cups unsweetened almond milk (or any plant-based milk)
+- 1 scoop vegan vanilla or berry-flavored protein powder (choose a high-quality one)
+- 1 teaspoon maple syrup or agave nectar (optional, for extra sweetness)
+- A pinch of cinnamon (optional)
+
+**Instructions:**
+
+1. **Prepare the Ingredients:**  
+Peel the bananas and measure out the frozen berries. If you’re using fresh berries, add a handful of ice cubes to chill the smoothie.
+
+2. **Combine in Blender:**  
+In a high-speed blender, add the bananas, frozen berries, chia seeds (if using), almond butter, and protein powder.
+
+3. **Add Liquids and Sweetener:**  
+Pour in the almond milk. If you prefer your smoothie sweeter, add the maple syrup or agave nectar at this stage.
+
+4. **Blend Until Smooth:**  
+Blend everything on high for about 30-45 seconds, stopping to scrape down the sides if needed. The goal is a thick, creamy, lump-free texture.
+
+5. **Taste and Adjust:**  
+Taste your smoothie. If it’s too thick, add a splash more almond milk and blend again. If you want it sweeter, add a little more syrup.
+
+6. **Serve:**  
+Pour into two glasses, sprinkle with a pinch of cinnamon if desired, and enjoy immediately!
+
+**Tip:** For an extra flavorful boost, add a few fresh mint leaves or a splash of vanilla extract.
+
+This smoothie is rich, sweet, and satisfying without that chalky vibe, thanks to the smoothness of bananas, nut butter, and high-quality protein powder. Cheers to a healthy start!",True,,19_3,19,PASS,"The recipe for the Creamy Banana & Berry Vegan Protein Smoothie adheres to the vegan dietary restriction. All ingredients listed are plant-based, including ripe bananas, frozen mixed berries, chia seeds, almond butter or peanut butter, unsweetened almond milk, vegan protein powder, maple syrup or agave nectar, and cinnamon. The preparation method does not involve any animal products or by-products. The optional ingredients, such as chia seeds, maple syrup, and cinnamon, are also vegan-friendly. The use of almond milk and vegan protein powder ensures that no dairy or animal-derived ingredients are included. Therefore, the recipe is suitable for a vegan diet.",HIGH,True,The recipe is for a vegan protein smoothie and contains only plant-based ingredients that adhere to the vegan dietary preference.,PASS
+I don't like vegetables but I want to eat healthy,vegetarian,"Great! If you want to eat healthy while avoiding vegetables, I recommend a **Lemon Herb Chicken with Quinoa**. It’s flavorful, nutritious, and easy to prepare. Here's a complete recipe for 2 servings:
+
+### Lemon Herb Chicken with Quinoa
+
+#### Ingredients:
+- 2 boneless, skinless chicken breasts
+- 1 cup quinoa
+- 2 cups water or chicken broth
+- 2 tablespoons olive oil
+- 1 lemon (juiced and zested)
+- 2 garlic cloves (minced)
+- 1 teaspoon dried thyme or rosemary
+- Salt and pepper to taste
+- Optional: fresh parsley or basil for garnish
+
+#### Instructions:
+
+1. **Prepare the Quinoa:**
+   - Rinse the quinoa under cold water using a fine mesh strainer to remove bitterness.
+   - In a medium saucepan, combine the rinsed quinoa and water or broth. Bring to a boil over high heat.
+   - Once boiling, reduce heat to low, cover with a lid, and simmer for about 15 minutes, or until the quinoa absorbs all the liquid and becomes fluffy.
+   - Remove from heat and let it sit, covered, for 5 minutes. Fluff with a fork.
+
+2. **Prepare the Chicken:**
+   - While the quinoa cooks, prepare the chicken breasts. Pat them dry with paper towels.
+   - In a small bowl, mix the lemon juice, lemon zest, minced garlic, dried thyme or rosemary, 1 tablespoon olive oil, salt, and pepper.
+   - Rub this marinade all over the chicken breasts. Let sit for 10 minutes to absorb flavors.
+
+3. **Cook the Chicken:**
+   - Heat the remaining 1 tablespoon olive oil in a skillet over medium heat.
+   - Once hot, add the chicken breasts.
+   - Cook for 6-7 minutes on each side, or until they are golden brown and cooked through (internal temperature should reach 165°F or 75°C).
+   - During the last minute, squeeze a little lemon juice over the chicken for extra flavor.
+
+4. **Serve:**
+   - Plate the fluffy quinoa and top with sliced or whole chicken breasts.
+   - Garnish with chopped fresh parsley or basil if desired.
+   
+This dish provides lean protein and complete amino acids from quinoa, making it a satisfying and healthy meal without relying on vegetables. Enjoy!",True,,38_36,38,FAIL,"The recipe provided is for 'Lemon Herb Chicken with Quinoa,' which includes chicken as a primary ingredient. The dietary restriction specified is vegetarian, which excludes meat and fish. Since chicken is a type of meat, this recipe does not adhere to the vegetarian dietary restriction. Additionally, the recipe does not offer any vegetarian alternatives or modifications to replace the chicken with a plant-based protein source.",HIGH,True,"The recipe contains quinoa, chicken, garlic, and herbs, none of which are vegetables. It adheres to the user's preference to avoid vegetables while providing a healthy meal.",PASS
+Gluten-light recipe - I'm not celiac just sensitive,gluten-free,"Certainly! Here's a delicious gluten-light recipe for **Lemon Herb Chicken with Roasted Vegetables**. It’s flavorful, healthy, and uses simple ingredients that are gentle on gluten sensitivities. This recipe serves 2 people.
+
+### Lemon Herb Chicken with Roasted Vegetables
+
+#### Ingredients:
+- 2 boneless chicken breasts
+- 1 lemon (zested and juiced)
+- 3 cloves garlic, minced
+- 2 tbsp olive oil
+- 1 tsp dried thyme or rosemary (or a combination)
+- Salt and black pepper to taste
+- 1 bell pepper, sliced
+- 1 zucchini, sliced
+- 1 red onion, sliced
+- Optional: fresh parsley for garnish
+
+#### Instructions:
+
+1. **Marinate the Chicken:**
+   - In a small bowl, combine the lemon juice, lemon zest, minced garlic, 1 tbsp olive oil, thyme, salt, and pepper.
+   - Place the chicken breasts in a resealable plastic bag or shallow dish. Pour the marinade over the chicken, ensuring it's well coated.
+   - Seal or cover and marinate in the refrigerator for at least 30 minutes to deepen the flavor.
+
+2. **Prepare the Vegetables:**
+   - Preheat your oven to 400°F (200°C).
+   - In a bowl, toss the sliced bell pepper, zucchini, and red onion with the remaining 1 tbsp olive oil, a pinch of salt, and pepper.
+
+3. **Roast the Vegetables:**
+   - Spread the vegetables evenly on a baking sheet lined with parchment paper.
+   - Place the baking sheet in the oven and roast for 20-25 minutes, or until vegetables are tender and slightly caramelized.
+
+4. **Cook the Chicken:**
+   - While the vegetables are roasting, heat a skillet over medium-high heat.
+   - Remove the chicken breasts from the marinade, allowing excess to drip off.
+   - Add a little olive oil to the skillet, then cook the chicken for about 6-7 minutes per side or until fully cooked and golden brown (internal temperature of 165°F/74°C).
+
+5. **Serve:**
+   - Plate the chicken breasts alongside the roasted vegetables.
+   - Garnish with freshly chopped parsley if desired.
+   - Add extra lemon wedges for a fresh citrus boost.
+
+Enjoy this vibrant, gluten-light dish perfect for a wholesome dinner! Would you like a dessert idea or a different type of recipe?",True,,48_34,48,FAIL,"The recipe provided is labeled as 'gluten-light,' which suggests it is not strictly gluten-free. The ingredients listed, such as chicken, lemon, garlic, olive oil, thyme, bell pepper, zucchini, and red onion, are naturally gluten-free. However, the term 'gluten-light' implies that there may be a risk of cross-contamination or trace amounts of gluten, which is not suitable for a strict gluten-free diet required by those with celiac disease. Since the dietary restriction specified is 'gluten-free,' the recipe does not meet the strict criteria for being completely free of gluten. Therefore, it does not adhere to the gluten-free dietary restriction.",HIGH,True,"The recipe contains chicken, which adheres to the user's gluten-light preference, as there are no gluten-containing ingredients listed.",PASS
+I want paleo bread but every recipe I've tried is terrible,paleo,"Let's try a delicious and foolproof Paleo almond flour bread! This bread is moist, fluffy, and perfect for sandwiches or toast. Here's a detailed recipe for a paleo almond flour bread loaf that serves 2-3 people.
+
+**Paleo Almond Flour Bread Recipe**
+
+**Ingredients:**
+- 1 ½ cups almond flour
+- 1 teaspoon baking soda
+- ¼ teaspoon salt
+- 4 large eggs
+- 2 tablespoons coconut oil or olive oil, melted
+- 1 tablespoon apple cider vinegar
+- Optional: 1 tablespoon honey or maple syrup for a hint of sweetness (still paleo)
+
+**Instructions:**
+
+1. **Preheat the Oven:**  
+   Set your oven to 350°F (175°C). Line a small loaf pan (about 8x4 inches) with parchment paper or lightly grease it with coconut oil to prevent sticking.
+
+2. **Mix Dry Ingredients:**  
+   In a medium bowl, whisk together the almond flour, baking soda, and salt until well combined. This ensures even distribution of leavening.
+
+3. **Prepare Wet Ingredients:**  
+   In a separate large bowl, beat the eggs with a whisk or fork until smooth. Add the melted coconut oil, apple cider vinegar, and honey or maple syrup if using. Mix thoroughly to blend everything evenly.
+
+4. **Combine Wet and Dry:**  
+   Pour the dry mixture into the wet ingredients. Stir gently with a spatula or spoon until a uniform batter forms. It will be slightly thick but pourable.
+
+5. **Transfer to Loaf Pan:**  
+   Pour the batter into your prepared loaf pan. Smooth the top with the back of a spatula or a spoon.
+
+6. **Bake:**  
+   Place the pan in the preheated oven and bake for about 30-35 minutes. The bread is done when it turns golden brown and a toothpick inserted into the center comes out clean.
+
+7. **Cool:**  
+   Let the bread cool in the pan for about 10 minutes, then transfer it to a wire rack. Allow it to cool completely before slicing to achieve clean slices.
+
+**Serving Suggestions:**  
+Enjoy slices toasted with almond butter, avocado, or your favorite paleo-friendly toppings. This bread keeps well in the fridge for up to a week and can be frozen for longer storage.
+
+Would you like a dairy-free, nut-free, or seed-based alternative next?",True,,17_35,17,PASS,"The recipe for Paleo almond flour bread adheres to the Paleo dietary restriction. It uses almond flour, which is a grain-free alternative suitable for Paleo diets. The recipe avoids grains, legumes, dairy, and refined sugars, which are not allowed in Paleo diets. The use of coconut oil or olive oil is appropriate as these are natural fats allowed in Paleo. The optional honey or maple syrup is also considered Paleo-friendly in moderation, as they are natural sweeteners. The preparation method does not involve any non-Paleo techniques or ingredients.",HIGH,True,"The recipe for paleo almond flour bread adheres to the paleo diet and does not include any non-paleo ingredients. The optional honey or maple syrup is still considered paleo, hence it is compliant with the user's request.",PASS
+Gluten-light recipe - I'm not celiac just sensitive,gluten-free,"Let's make a delicious **Lemon Herb Chicken with Roasted Vegetables**—a gluten-light dish that is flavorful and satisfying for two people.
+
+### Ingredients:
+- 2 boneless, skinless chicken breasts
+- 1 lemon (for juice and zest)
+- 2 cloves garlic, minced
+- 2 tablespoons olive oil
+- 1 teaspoon dried thyme or rosemary
+- Salt and freshly ground black pepper to taste
+- 1 cup cherry tomatoes
+- 1 medium zucchini, sliced
+- 1 red bell pepper, sliced
+- Optional: fresh parsley for garnish
+
+### Instructions:
+
+#### Step 1: Marinate the Chicken
+1. In a small bowl, combine the juice and zest of one lemon, minced garlic, olive oil, dried thyme or rosemary, salt, and pepper.
+2. Place the chicken breasts in a resealable plastic bag or shallow dish.
+3. Pour the marinade over the chicken, ensuring all surfaces are coated. Seal or cover and let it marinate in the fridge for at least 30 minutes (or up to 2 hours).
+
+#### Step 2: Prepare the Vegetables
+1. Preheat your oven to 400°F (200°C).
+2. In a mixing bowl, toss cherry tomatoes, zucchini slices, and red bell pepper slices with 1 tablespoon of olive oil, salt, and pepper.
+3. Spread the vegetables evenly on a baking sheet lined with parchment paper.
+
+#### Step 3: Roast the Vegetables
+1. Roast the vegetables in the oven for about 20-25 minutes until tender and slightly caramelized.
+
+#### Step 4: Cook the Chicken
+1. While the vegetables are roasting, heat a large skillet over medium-high heat.
+2. Remove the chicken from the marinade, letting excess drip off.
+3. Cook the chicken breasts in the hot skillet for about 6-7 minutes per side, or until fully cooked and nicely browned. You can check doneness with a meat thermometer (internal temperature should reach 165°F).
+4. Once cooked, transfer to a plate and let rest for a couple of minutes.
+
+#### Step 5: Serve
+1. Plate the chicken breasts alongside the roasted vegetables.
+2. Garnish with freshly chopped parsley and a squeeze of fresh lemon juice for brightness.
+
+Enjoy this vibrant, gluten-light meal packed with flavor and healthy ingredients! It serves 2 people and is perfect for a wholesome dinner.",True,,48_22,48,FAIL,"The recipe for Lemon Herb Chicken with Roasted Vegetables does not contain any explicit gluten-containing ingredients such as wheat, barley, or rye. The ingredients listed, including chicken, lemon, garlic, olive oil, thyme or rosemary, cherry tomatoes, zucchini, and red bell pepper, are naturally gluten-free. The preparation methods, such as marinating, roasting, and cooking in a skillet, do not introduce gluten. However, the query specifies a 'gluten-light' recipe, which suggests a sensitivity rather than a strict gluten-free requirement. While the recipe is suitable for someone who is gluten-sensitive, it is important to note that cross-contamination or hidden gluten in spices or other ingredients could be a concern for someone with celiac disease. Since the dietary restriction specified is 'gluten-free,' and the recipe does not explicitly ensure gluten-free certification of all ingredients, it does not strictly adhere to a gluten-free diet.",MEDIUM,True,"The recipe does not contain gluten-containing ingredients and is marketed as gluten-light, which suits the user's dietary preference of being gluten-sensitive but not celiac.",PASS
+Low-sodium soup recipe - my doctor says I need to cut back,low-sodium,"Certainly! Here’s a flavorful, low-sodium vegetable soup perfect for two people. It’s nourishing, easy to prepare, and naturally low in sodium without sacrificing taste.
+
+### Low-Sodium Vegetable Soup
+
+**Ingredients:**
+- 1 tablespoon olive oil  
+- 1 medium onion, chopped  
+- 2 carrots, peeled and diced  
+- 2 celery stalks, diced  
+- 2 cloves garlic, minced  
+- 1 large zucchini, diced  
+- 1 cup green beans, trimmed and chopped  
+- 1 can (14.5 oz) no-salt-added diced tomatoes  
+- 4 cups low-sodium vegetable broth (look for no added salt or make your own)  
+- 1 teaspoon dried thyme  
+- 1 teaspoon dried basil  
+- ½ teaspoon black pepper  
+- 1 bay leaf  
+- Fresh parsley, chopped (for garnish)  
+
+**Steps:**
+
+1. **Heat the oil:**  
+   In a large pot, warm the olive oil over medium heat. Once shimmering, add the chopped onion, carrots, and celery. Sauté for about 5-7 minutes until the vegetables become tender and the onion is translucent.
+
+2. **Add garlic:**  
+   Stir in the minced garlic and cook for another minute until fragrant, being careful not to burn it.
+
+3. **Incorporate the vegetables:**  
+   Add the zucchini and green beans to the pot. Stir well to combine.
+
+4. **Add the liquids and seasonings:**  
+   Pour in the no-salt-added diced tomatoes along with their juice. Then add the low-sodium vegetable broth, dried thyme, basil, black pepper, and the bay leaf. Stir everything together.
+
+5. **Simmer:**  
+   Bring the mixture to a gentle boil, then reduce the heat to low. Cover the pot and let it simmer for about 20-25 minutes until all vegetables are tender and flavors meld.
+
+6. **Finish and serve:**  
+   Remove the bay leaf, taste the soup, and adjust seasoning if necessary (a pinch of fresh herbs or a squeeze of lemon can brighten flavors). Ladle into bowls, garnish with chopped fresh parsley, and enjoy!
+
+### Serving tips:
+Pair this soup with a slice of whole-grain bread or a side salad for a complete, health-conscious meal.
+
+Enjoy your hearty, low-sodium vegetable soup!",True,,18_30,18,PASS,"The recipe for the low-sodium vegetable soup adheres to the low-sodium dietary restriction. It uses no-salt-added diced tomatoes and low-sodium vegetable broth, which are appropriate choices for reducing sodium content. The recipe avoids high-sodium ingredients such as regular broth, canned vegetables with added salt, or processed seasonings. The use of herbs and spices like thyme, basil, and black pepper helps enhance flavor without adding sodium. The recipe also suggests tasting and adjusting seasoning with fresh herbs or lemon juice, which are low-sodium options. Overall, the recipe is well-suited for someone needing to cut back on sodium.",HIGH,True,"The recipe is low-sodium and does not include any ingredients that would break the user's dietary preference for a low-sodium soup, adhering to the doctor's advice.",PASS
+Vegetarian curry but I don't eat onions or garlic for religious reasons,vegetarian,"Certainly! Here's a flavorful **Chickpea and Spinach Coconut Curry** that is vegetarian and onion & garlic-free. It serves 2 people.
+
+### Ingredients:
+- 1 tablespoon coconut oil or vegetable oil
+- 1 teaspoon cumin seeds
+- 1 teaspoon grated fresh ginger
+- 1 large tomato, finely chopped
+- 1 teaspoon ground turmeric
+- 1 teaspoon ground coriander
+- 1/2 teaspoon garam masala
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 2 cups fresh spinach, chopped
+- 1 cup coconut milk
+- Salt to taste
+- Fresh cilantro for garnish
+- Cooked rice or naan for serving
+
+### Instructions:
+
+1. **Prepare the Spices and Base:**
+   - Heat the coconut oil in a large pan over medium heat.
+   - Add the cumin seeds. Let them sizzle for about 30 seconds to release their aroma.
+   - Stir in the grated ginger and cook for another 30 seconds, being careful not to burn it.
+
+2. **Cook the Tomato:**
+   - Add the chopped tomato to the pan.
+   - Cook for about 5 minutes, stirring occasionally, until the tomato softens and releases its juices.
+
+3. **Add the Spices:**
+   - Stir in the turmeric, ground coriander, and garam masala.
+   - Cook the mixture for 1-2 minutes to toast the spices and deepen the flavor.
+
+4. **Add Chickpeas and Coconut Milk:**
+   - Mix in the chickpeas, stirring well to coat them with the spice mixture.
+   - Pour in the coconut milk, stirring to combine everything evenly.
+   - Bring to a gentle simmer, cover, and cook for about 10 minutes to let the flavors meld.
+
+5. **Stir in Spinach:**
+   - Add the chopped spinach and cook for an additional 2-3 minutes until wilted.
+   - Season with salt to taste.
+
+6. **Serve:**
+   - Garnish with fresh cilantro.
+   - Serve hot over cooked rice or with naan bread.
+
+Enjoy your flavorful, onion and garlic-free vegetarian curry!",True,,16_36,16,PASS,"The recipe provided is a vegetarian curry that does not include any meat or fish, adhering to the vegetarian dietary restriction. Additionally, it specifically avoids onions and garlic, which aligns with the query's religious dietary preferences. The ingredients used, such as coconut oil, cumin seeds, ginger, tomato, turmeric, coriander, garam masala, chickpeas, spinach, coconut milk, and cilantro, are all vegetarian-friendly. The preparation method does not involve any non-vegetarian techniques or ingredients. Therefore, the recipe meets the specified dietary restriction and personal preference.",HIGH,True,"The recipe is vegetarian and does not include any onions or garlic, which aligns with the user's dietary preferences.",PASS
+Gluten-light recipe - I'm not celiac just sensitive,gluten-free,"Certainly! Here's a delicious Gluten-Light Chicken and Vegetable Stir-Fry that is flavorful, light, and perfect for a sensitive stomach.
+
+**Gluten-Light Chicken and Vegetable Stir-Fry (Serves 2)**
+
+**Ingredients:**
+- 2 boneless, skinless chicken breasts, sliced into thin strips
+- 2 tablespoons olive oil or avocado oil
+- 1 red bell pepper, sliced
+- 1 yellow bell pepper, sliced
+- 1 cup broccoli florets
+- 1 carrot, julienned
+- 2 cloves garlic, minced
+- 1 tablespoon fresh ginger, grated
+- 2 tablespoons Tamari (gluten-light soy sauce, check for gluten-free)
+- 1 teaspoon honey or maple syrup
+- 1 teaspoon rice vinegar
+- 1 teaspoon sesame oil (optional, for flavor)
+- Salt and pepper to taste
+- Sesame seeds and sliced green onions for garnish (optional)
+
+**Preparation Steps:**
+
+1. **Prep the Ingredients:**  
+Slice the chicken into thin strips, and prepare the vegetables by slicing the bell peppers, cutting the broccoli into small florets, julienning the carrot, mincing the garlic, and grating the ginger.
+
+2. **Cook the Chicken:**  
+Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat. Add the sliced chicken, season with a pinch of salt and pepper. Stir-fry for 5-6 minutes, or until the chicken is cooked through and lightly browned. Remove the chicken from the skillet and set aside.
+
+3. **Cook the Vegetables:**  
+In the same skillet, add the remaining 1 tablespoon of oil. Toss in the garlic and ginger, sauté for about 30 seconds until fragrant. Add the broccoli, bell peppers, and carrots. Stir-fry for 4-5 minutes, until the vegetables are tender but still crisp.
+
+4. **Combine and Sauce:**  
+Return the cooked chicken to the skillet with the vegetables. In a small bowl, mix the Tamari, honey, rice vinegar, and sesame oil. Pour this sauce over the chicken and vegetables. Toss everything together and cook for another 2-3 minutes, allowing the flavors to meld.
+
+5. **Serve:**  
+Divide the stir-fry between two plates. Garnish with a sprinkle of sesame seeds and sliced green onions if desired. Serve hot, perhaps with a side of steamed rice or cauliflower rice for a complete meal.
+
+Enjoy your light, flavorful, gluten-light stir-fry—a perfect balance of protein and vegetables with a savory Asian-inspired flavor!",True,,48_30,48,FAIL,"The recipe is labeled as 'gluten-light,' which suggests it may not be fully gluten-free. The use of Tamari is noted as 'gluten-light soy sauce,' and while Tamari can be gluten-free, it is crucial to ensure that the specific product used is certified gluten-free. The recipe advises checking for gluten-free Tamari, which is appropriate for a gluten-sensitive individual but not strictly gluten-free without verification. Additionally, the recipe suggests serving with steamed rice, which is gluten-free, or cauliflower rice, which is also gluten-free. However, the recipe does not explicitly ensure that all ingredients are certified gluten-free, which is necessary for a strict gluten-free diet. Therefore, while the recipe may be suitable for someone who is gluten-sensitive, it does not strictly adhere to a gluten-free dietary restriction without further verification of the Tamari.",MEDIUM,True,"The recipe uses Tamari, which is a gluten-light soy sauce, and is checked to ensure it’s gluten-free. All other ingredients do not contain gluten and adhere to a gluten-light preference.",PASS
+Keto breakfast that I can meal prep for the week,keto,"Certainly! Here's a delicious and easy Keto Egg Muffin Casserole that you can meal prep for the week. It’s loaded with protein and healthy fats, perfect for a satisfying breakfast. This recipe makes about 8 servings, so you can enjoy it over several mornings.
+
+**Keto Egg Muffin Casserole (Serves 2-4 people, depending on portion size)**
+
+### Ingredients:
+- 8 large eggs
+- 1/2 cup heavy cream
+- 1 cup shredded cheddar cheese
+- 1 cup cooked bacon, chopped (or cooked sausage crumbles)
+- 1 cup spinach, chopped
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper
+- Optional: diced bell peppers or onions (for added flavor)
+
+### Instructions:
+
+1. **Preheat your oven** to 375°F (190°C). Grease a 9x13-inch baking dish or line it with parchment paper for easy cleanup.
+
+2. **Cook the bacon** until crispy. Once cooled, chop into bite-sized pieces. If using sausage, cook until browned and crumble into small pieces.
+
+3. **In a large mixing bowl**, whisk together the eggs, heavy cream, garlic powder, salt, and black pepper until well combined.
+
+4. **Add the shredded cheese**, chopped spinach, bacon (or sausage), and optional diced vegetables to the egg mixture. Stir gently to distribute evenly.
+
+5. **Pour the mixture** into the prepared baking dish, spreading it out evenly.
+
+6. **Bake in the preheated oven** for 20-25 minutes, or until the eggs are set and the edges are slightly golden.
+
+7. **Cool the casserole** for a few minutes, then slice into 8 portions.
+
+### Storage:
+- Let the portions cool completely before sealing them in airtight containers.
+- Refrigerate for up to 5 days.
+- To reheat, microwave each portion for 30-45 seconds until warmed through.
+
+Enjoy a nutritious, protein-packed breakfast each morning! Feel free to customize with your favorite low-carb vegetables or add some avocado slices on the side.",True,,3_3,3,PASS,"The recipe for Keto Egg Muffin Casserole adheres to the keto dietary restriction. It includes ingredients that are low in carbohydrates and high in fats and proteins, which are suitable for a ketogenic diet. The main ingredients such as eggs, heavy cream, cheddar cheese, and bacon are all keto-friendly. The optional addition of low-carb vegetables like bell peppers or onions is also acceptable in moderation. The preparation method involves baking, which does not introduce any non-keto elements. Overall, the recipe is well-suited for a keto meal prep breakfast.",HIGH,True,"The recipe uses eggs, heavy cream, and cheese, which are not compliant with a vegan diet but are acceptable for a keto diet. Since the user's dietary preference is for a keto breakfast, which is generally high in fats and low in carbs, this recipe adheres to that requirement.",PASS
+I'm vegan and gluten-free and also hate vegetables. What can I eat?,vegan,"Given your preferences, I recommend trying a delicious Vegan and Gluten-Free Chickpea & Sweet Potato Curry. It's flavorful, hearty, and disguises the vegetables in a tasty sauce, making it perfect even if you're not a vegetable fan. This recipe serves 2 people.
+
+### Vegan & Gluten-Free Chickpea & Sweet Potato Curry
+
+#### Ingredients:
+- 1 large sweet potato (about 1 cup cubed)
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 1 can (14 oz) coconut milk
+- 1 tablespoon olive oil or coconut oil
+- 1 teaspoon ground cumin
+- 1 teaspoon ground coriander
+- 1 teaspoon turmeric powder
+- 1 teaspoon smoked paprika
+- 1/2 teaspoon chili powder (optional for heat)
+- Salt and pepper to taste
+- 1 tablespoon lemon juice (optional, for brightness)
+- Fresh cilantro (optional, for garnish)
+- Cooked rice or gluten-free bread for serving
+
+#### Instructions:
+
+1. **Prepare the Sweet Potato:**  
+Peel the sweet potato and cut it into small cubes, roughly 1-inch in size. This helps it cook faster and blend well into the curry.
+
+2. **Cook the Sweet Potato:**  
+In a large skillet or saucepan, heat the olive or coconut oil over medium heat. Add the sweet potato cubes. Sauté for about 5-7 minutes, stirring occasionally, until they begin to soften and slightly brown.
+
+3. **Add Spices:**  
+Sprinkle in the cumin, coriander, turmeric, smoked paprika, and chili powder if you like some heat. Stir well to coat the sweet potatoes in the spices, cooking for another 1-2 minutes until fragrant.
+
+4. **Pour in Coconut Milk:**  
+Add the coconut milk to the skillet, stirring to combine everything smoothly. Bring the mixture to a gentle simmer.
+
+5. **Add Chickpeas:**  
+Stir in the chickpeas. Cover and let the curry simmer gently for about 10-15 minutes, until the sweet potatoes are tender and the flavors meld together.
+
+6. **Season and Finish:**  
+Taste the curry and add salt and pepper as needed. For added brightness, stir in lemon juice just before serving.
+
+7. **Serve:**  
+Spoon the warm curry over cooked rice or gluten-free bread. Garnish with fresh cilantro if you like.
+
+Enjoy this comforting, flavorful dish that’s entirely vegan and gluten-free, and it hides the vegetables in a delicious, rich sauce!",True,,29_38,29,PASS,"The recipe for Vegan & Gluten-Free Chickpea & Sweet Potato Curry adheres to the vegan dietary restriction as it contains no animal products. All ingredients listed, such as sweet potatoes, chickpeas, coconut milk, and spices, are plant-based. Additionally, the recipe is gluten-free, as it does not include any gluten-containing grains. The use of rice or gluten-free bread for serving ensures that the dish remains gluten-free. The preparation methods do not involve any non-vegan processes. Although the query mentions a dislike for vegetables, the recipe cleverly incorporates them in a way that may be more palatable, which aligns with the user's preferences.",HIGH,True,"The recipe contains sweet potatoes, chickpeas, and coconut milk, all of which are plant-based ingredients. However, the user stated that they hate vegetables, and the recipe heavily features sweet potatoes, which are classified as vegetables. Therefore, despite being vegan and gluten-free, the recipe is not suitable due to the user's preference against vegetables.",FAIL
+Gluten-light recipe - I'm not celiac just sensitive,gluten-free,"Let's make a delicious **Zucchini Noodle Primavera**—a fresh and flavorful gluten-light dish perfect for two! It's light, healthy, and easy to prepare.
+
+### Ingredients:
+- 2 large zucchinis
+- 1 cup cherry tomatoes, halved
+- 1 red bell pepper, thinly sliced
+- 2 cloves garlic, minced
+- 2 tablespoons olive oil
+- 1 teaspoon dried oregano
+- 1 teaspoon dried basil
+- Salt and pepper to taste
+- Grated Parmesan cheese (optional, for serving)
+- Fresh basil leaves for garnish
+
+### Instructions:
+
+1. **Prep the Zucchini Noodles:**
+   - Wash the zucchinis thoroughly. Use a spiralizer or julienne peeler to transform the zucchinis into noodles. If using a julienne peeler, run it along the zucchini lengthwise to create strips. Set aside.
+
+2. **Cook the Vegetables:**
+   - In a large skillet, heat 1 tablespoon of olive oil over medium heat.
+   - Add the minced garlic and cook for about 30 seconds until fragrant.
+   - Toss in the sliced red bell pepper and cook for 3-4 minutes until slightly softened.
+   - Add the cherry tomatoes and cook for another 2 minutes, just until they start to burst and release their juices.
+
+3. **Cook the Zucchini Noodles:**
+   - Push the vegetables to one side of the skillet. Add the remaining tablespoon of olive oil, then add the zucchini noodles.
+   - Lightly toss everything together, cooking for about 2-3 minutes until the zucchini is just tender but still vibrant and slightly al dente. Avoid overcooking to keep them from becoming soggy.
+
+4. **Season and Serve:**
+   - Sprinkle in the dried oregano, dried basil, salt, and pepper. Toss everything gently to combine.
+   - Remove from heat, then divide into two serving bowls.
+   - Garnish with grated Parmesan cheese and fresh basil leaves if desired.
+
+Enjoy your light and flavorful Zucchini Noodle Primavera! It pairs wonderfully with a side of crusty gluten-light bread or a fresh green salad.",True,,48_8,48,FAIL,"The recipe for Zucchini Noodle Primavera is primarily composed of vegetables and does not include any traditional gluten-containing ingredients like wheat, barley, or rye. Zucchini noodles are a common gluten-free alternative to pasta. However, the recipe mentions serving with 'crusty gluten-light bread,' which could potentially contain gluten, albeit in reduced amounts. Since the dietary restriction specified is 'gluten-free,' even small amounts of gluten are not permissible. Additionally, the optional use of Parmesan cheese does not affect the gluten-free status, but it is worth noting for other dietary restrictions. The main dish itself adheres to gluten-free guidelines, but the mention of gluten-light bread is problematic for a strict gluten-free diet.",HIGH,True,"The recipe includes grated Parmesan cheese, which is a dairy product and may contain gluten depending on processing methods. Since the user specified a gluten-light preference, it's safer to classify this as FAIL.",FAIL
+Vegetarian meal that has enough protein for my bodybuilder boyfriend,vegetarian,"Certainly! I recommend making **Chickpea and Spinach Curry**. It's a hearty, protein-rich vegetarian dish perfect for supporting muscle building, and it's flavorful and satisfying. This recipe serves 2 people.
+
+### Ingredients:
+- 1 can (15 oz) of chickpeas, drained and rinsed
+- 2 cups fresh spinach leaves
+- 1 medium onion, finely chopped
+- 3 cloves garlic, minced
+- 1-inch piece of fresh ginger, grated
+- 1 can (14 oz) diced tomatoes
+- 1 tablespoon olive oil
+- 1 teaspoon cumin seeds
+- 1 teaspoon ground coriander
+- 1 teaspoon turmeric powder
+- 1 teaspoon garam masala
+- 1/2 teaspoon chili powder (adjust to taste)
+- Salt to taste
+- Fresh cilantro (optional, for garnish)
+- Juice of half a lemon (optional)
+
+---
+
+### Instructions:
+
+1. **Prepare your ingredients:** Drain and rinse the chickpeas, set aside. Finely chop the onion, mince the garlic, and grate the ginger.
+
+2. **Toast the cumin seeds:** Heat the olive oil in a large skillet or saucepan over medium heat. Add the cumin seeds and cook for about 30 seconds until fragrant.
+
+3. **Sauté aromatics:** Add the chopped onion to the skillet. Cook, stirring occasionally, for about 5 minutes until the onion becomes translucent and slightly golden. Add the minced garlic and grated ginger; cook for an additional 1-2 minutes until fragrant.
+
+4. **Add spices:** Stir in the ground coriander, turmeric, garam masala, chili powder, and a pinch of salt. Cook for another minute to toast the spices and release their flavors.
+
+5. **Add tomatoes and chickpeas:** Pour in the diced tomatoes with their juices. Use a spoon to break down the tomatoes slightly. Stir in the chickpeas. Bring the mixture to a simmer.
+
+6. **Simmer:** Reduce heat to low, cover loosely, and let it simmer for about 10 minutes, allowing the flavors to meld. Stir occasionally.
+
+7. **Add spinach:** Stir in the fresh spinach leaves. Cook for 2-3 minutes until wilted. Taste and adjust salt or spices if needed.
+
+8. **Finish and serve:** Squeeze lemon juice over the curry for brightness. Garnish with chopped cilantro if desired.
+
+### Serving suggestion:
+Serve this hearty chickpea and spinach curry over brown rice or whole-grain naan bread for a balanced, protein-packed meal. Enjoy!
+
+Would you like a dessert or a side dish to go with this?",True,,34_1,34,PASS,"The recipe for Chickpea and Spinach Curry adheres to the vegetarian dietary restriction as it contains no meat or fish. The ingredients listed, such as chickpeas, spinach, onion, garlic, ginger, tomatoes, and various spices, are all plant-based and suitable for a vegetarian diet. The use of olive oil for cooking is also appropriate. The recipe does not include any non-vegetarian ingredients, and the preparation methods do not involve any non-vegetarian processes. Additionally, the suggestion to serve the curry with brown rice or whole-grain naan bread is consistent with a vegetarian diet.",HIGH,True,"The recipe contains only vegetarian ingredients such as chickpeas, spinach, and various spices, which adhere to the user's dietary preference for a vegetarian meal. Additionally, chickpeas are a great source of protein, making this recipe suitable for a bodybuilder's dietary needs.",PASS
+Raw vegan soup that's actually warm somehow?,raw vegan,"Certainly! Here's a unique recipe for **Warm Spiced Carrot and Ginger Soup**, which is raw vegan in ingredients but gives the comforting warmth through spices and gentle heating. It’s perfect for 2 servings.
+
+### Ingredients:
+- 4 large carrots, peeled and chopped
+- 1-inch piece of fresh ginger, peeled and grated
+- 1 small onion, peeled and chopped
+- 2 cloves garlic, minced
+- 2 cups vegetable broth (preferably homemade or high-quality)
+- 1 tablespoon olive oil
+- 1 teaspoon ground cumin
+- 1/2 teaspoon paprika
+- 1/2 teaspoon turmeric
+- Pinch of cayenne pepper (optional, for heat)
+- Salt and pepper to taste
+- Fresh lemon juice (to taste)
+- Fresh herbs (like cilantro or parsley) for garnish
+
+### Instructions:
+
+1. **Sauté the Aromatics:**  
+   In a pot, heat the olive oil over medium heat. Add the chopped onion and cook until translucent, about 3-4 minutes. Add the minced garlic and grated ginger, cooking for another minute until fragrant.
+
+2. **Add the Spices:**  
+   Stir in the cumin, paprika, turmeric, and cayenne pepper (if using). Cook for 30 seconds to toast the spices and release their aroma.
+
+3. **Cook the Carrots:**  
+   Add the chopped carrots to the pot, stirring to coat them with the spices. Pour in the vegetable broth.
+
+4. **Simmer:**  
+   Bring the mixture to a gentle boil, then reduce heat to low. Cover and simmer for about 15-20 minutes, or until the carrots are tender.
+
+5. **Warm, Not Boil, for that “raw” feel:**  
+   Once cooked, turn off the heat. To keep it feeling more raw and warm (rather than hot), you can transfer the soup to a heat-safe blender container. Blend until smooth and warm (around 110°F or 43°C). Alternatively, gently warm the soup on low heat without boiling.
+
+6. **Finish and Serve:**  
+   Pour the soup into bowls. Squeeze fresh lemon juice to brighten the flavor. Garnish with chopped herbs.
+
+### Serving Size:
+This recipe makes about 2 servings of warm, flavorful raw vegan soup.
+
+Enjoy the cozy warmth of spiced carrots with the health benefits of raw ingredients!",True,,27_40,27,FAIL,"The recipe for 'Warm Spiced Carrot and Ginger Soup' does not adhere to the raw vegan dietary restriction. The primary issue is the cooking method described in the instructions. The recipe involves sautéing onions and garlic in olive oil over medium heat, which typically exceeds the raw food temperature limit of 118°F (48°C). Additionally, the recipe instructs to simmer the carrots in vegetable broth, which also involves cooking at temperatures higher than the raw threshold. Although the final step suggests blending the soup to keep it warm rather than hot, the initial cooking steps already violate the raw vegan requirement. The ingredients themselves are raw vegan, but the preparation method disqualifies the recipe from being considered raw vegan.",HIGH,True,"The recipe includes olive oil and vegetable broth, both of which are not considered raw vegan because they are heated during preparation. Additionally, the process of simmering the carrots also violates the raw aspect of a raw vegan diet.",FAIL
+I'm vegan and gluten-free and also hate vegetables. What can I eat?,vegan,"Certainly! I recommend trying my **Creamy Coconut Lentil Risotto**. It’s hearty, flavorful, vegan, gluten-free, and doesn't rely heavily on vegetables, making it perfect for your preferences. Here's how to make it for two servings:
+
+### Ingredients:
+- 1 cup red lentils
+- 1 can (13.5 oz) full-fat coconut milk
+- 2 cups vegetable broth (check for gluten-free)
+- 1 small onion, finely chopped
+- 2 cloves garlic, minced
+- 2 tablespoons olive oil
+- 1 teaspoon ground turmeric
+- 1 teaspoon smoked paprika
+- Salt and black pepper to taste
+- Fresh cilantro or parsley (optional, for garnish)
+- Lemon wedges (optional, for serving)
+
+### Directions:
+
+1. **Prepare the Base:**  
+   In a large skillet or saucepan, heat the olive oil over medium heat. Add the finely chopped onion and cook for about 3-4 minutes until translucent. Add the minced garlic and cook for another minute, being careful not to burn it.
+
+2. **Toast Spices:**  
+   Stir in the turmeric and smoked paprika, cooking for another 30 seconds to release their aroma.
+
+3. **Add Lentils and Liquids:**  
+   Pour in the rinsed red lentils, stirring to coat them with the spices. Then, add the coconut milk and vegetable broth. Stir well to combine.
+
+4. **Simmer:**  
+   Bring the mixture to a boil, then reduce the heat to low. Cover partly and let it simmer gently for about 20-25 minutes, stirring occasionally. The lentils will soften and the mixture will thicken into a creamy risotto-like texture. Keep an eye on the liquid, adding a splash of water if necessary to prevent sticking.
+
+5. **Season and Finish:**  
+   Once the lentils are tender and the consistency is rich and creamy, taste and adjust the salt and pepper as needed.
+
+6. **Serve:**  
+   Divide the risotto into two bowls. Garnish with freshly chopped cilantro or parsley and serve with lemon wedges on the side for a bright, fresh flavor.
+
+Enjoy your hearty, creamy, vegetable-light vegan and gluten-free meal!",True,,29_7,29,PASS,"The recipe for Creamy Coconut Lentil Risotto adheres to the vegan dietary restriction as it contains no animal products. All ingredients listed, such as red lentils, coconut milk, vegetable broth, onion, garlic, olive oil, turmeric, and smoked paprika, are plant-based. The preparation method does not involve any non-vegan techniques. Additionally, the recipe is gluten-free, as it does not include any gluten-containing grains, and the vegetable broth is specified to be checked for gluten-free status. The recipe also caters to the preference of avoiding vegetables by not relying heavily on them, using only onion and optional garnishes.",HIGH,True,"The recipe includes onion and garlic, which are vegetables, despite being vegan and gluten-free. Since the user hates vegetables, this recipe does not meet the dietary preference of avoiding vegetables.",FAIL
+I'm pescatarian but shellfish makes me sick,pescatarian,"Great! I recommend trying a delicious **Lemon Herb Baked Salmon**. It's healthy, easy to prepare, and perfect for two people.
+
+---
+
+### Lemon Herb Baked Salmon
+
+**Ingredients:**
+- 2 salmon fillets (about 6 oz each)
+- 1 lemon (for juice and slices)
+- 2 tablespoons olive oil
+- 2 cloves garlic, minced
+- 1 teaspoon dried thyme (or fresh, if available)
+- 1 teaspoon dried parsley (or fresh)
+- Salt and black pepper to taste
+- Fresh dill or parsley for garnish (optional)
+
+---
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Set your oven to 400°F (200°C). Line a baking sheet with parchment paper or lightly grease it.
+
+2. **Prepare the Salmon:**
+   - Place the salmon fillets skin-side down on the prepared baking sheet.
+   - Pat them dry with paper towels to ensure even seasoning.
+
+3. **Make the Herb Mixture:**
+   - In a small bowl, combine the olive oil, minced garlic, dried thyme, dried parsley, salt, and black pepper.
+   - Squeeze half of the lemon over the salmon fillets, then brush or rub the herb mixture evenly over the top of each fillet.
+
+4. **Add Lemon Slices:**
+   - Slice the lemon into thin rounds.
+   - Place a couple of lemon slices on top of each salmon fillet for extra flavor.
+
+5. **Bake:**
+   - Place the baking sheet in the preheated oven.
+   - Bake for about 12-15 minutes, or until the salmon flakes easily with a fork. The exact time depends on the thickness of the fillets.
+
+6. **Serve:**
+   - Plate the salmon, spoon some of the juices from the baking sheet over the top, and garnish with fresh dill or parsley if desired.
+   - Serve with a side of steamed vegetables, rice, or a light salad.
+
+---
+
+Enjoy your flavorful Lemon Herb Baked Salmon! It’s simple, nutritious, and perfect for a quick yet impressive meal.",True,,55_32,55,PASS,"The recipe for Lemon Herb Baked Salmon adheres to the pescatarian dietary restriction, which allows for fish and seafood but excludes other meats. The recipe uses salmon, which is a type of fish, and does not include any shellfish, which the user is specifically avoiding due to an allergy. All other ingredients, such as lemon, olive oil, garlic, and herbs, are plant-based and do not conflict with the pescatarian diet. The preparation method of baking is also suitable and does not introduce any non-compliant elements.",HIGH,True,"The recipe contains salmon, which is acceptable for a pescatarian diet. It does not include any shellfish, which the user is allergic to, therefore it meets the user's dietary preferences.",PASS
+I avoid processed foods but I'm lazy,paleo,"Let's go for a simple, wholesome, and satisfying dish: **Garlic & Herb Lemon Chicken**. It’s easy to prepare, uses minimal ingredients, and is perfect for two servings. Plus, it’s fresh and free from processed foods!
+
+### Ingredients:
+- 2 boneless, skinless chicken breasts
+- 3 cloves garlic, minced
+- 1 lemon (for juice and zest)
+- 2 tablespoons olive oil
+- 1 teaspoon dried thyme or rosemary (or a mix)
+- Salt and freshly ground black pepper to taste
+- Optional: fresh parsley or basil for garnish
+
+### Instructions:
+1. **Prepare the chicken:** Pat the chicken breasts dry with paper towels. Lightly season both sides with salt, pepper, and half of the dried herbs.
+
+2. **Marinate briefly:** In a small bowl, squeeze the juice of half the lemon and add the minced garlic, 1 tablespoon of olive oil, and the remaining herbs. Rub this mixture all over the chicken breasts. Let sit for 10-15 minutes if you have time, or proceed directly.
+
+3. **Cook the chicken:** Heat a large skillet over medium heat. Add the remaining 1 tablespoon of olive oil. When hot, place the chicken breasts in the skillet. Cook for about 6-8 minutes on each side, or until golden brown and cooked through (internal temperature should reach 165°F).
+
+4. **Finish with lemon:** Squeeze the juice of the remaining half of the lemon over the cooked chicken. Optionally, add some lemon zest for extra flavor. Let it rest for a minute to absorb the flavors.
+
+5. **Serve:** Plate the chicken and garnish with chopped fresh parsley or basil if you like. Pair with a simple side like steamed vegetables or a fresh salad.
+
+**Enjoy your bright, flavorful, and healthful lemon garlic chicken!**\
+*Serves 2.*",True,,46_18,46,PASS,"The recipe for Garlic & Herb Lemon Chicken adheres to the paleo dietary restriction. It includes whole, unprocessed ingredients such as chicken breasts, garlic, lemon, olive oil, and herbs. These ingredients are all compliant with the paleo diet, which excludes grains, legumes, dairy, refined sugar, and processed foods. The preparation method involves simple marination and cooking in a skillet, which does not introduce any non-paleo elements. There are no grains, legumes, dairy, or processed foods in the recipe, making it suitable for someone following a paleo diet.",HIGH,True,"The recipe contains only fresh, unprocessed ingredients such as chicken breast, garlic, lemon, olive oil, and herbs, which aligns with the user's preference to avoid processed foods.",PASS
+I eat pretty clean most of the time,whole30,"Great! Since you enjoy eating clean, I recommend trying a **Grilled Lemon Herb Chicken Salad**. It’s fresh, nutritious, and bursting with bright flavors — perfect for a light yet satisfying meal for two.
+
+### Grilled Lemon Herb Chicken Salad
+
+#### Ingredients:
+- 2 boneless, skinless chicken breasts
+- 1 large lemon (for juice and zest)
+- 2 tablespoons extra virgin olive oil
+- 2 garlic cloves, minced
+- 1 teaspoon dried oregano (or thyme)
+- Salt and freshly ground black pepper to taste
+- Mixed salad greens (about 4 cups)
+- 1 cucumber, sliced
+- 1 cup cherry tomatoes, halved
+- 1 avocado, sliced (optional but adds healthy fats)
+- ¼ red onion, thinly sliced
+- Fresh herbs (parsley or basil) for garnish
+
+#### For the Dressing:
+- 2 tablespoons extra virgin olive oil
+- 1 tablespoon lemon juice
+- 1 teaspoon honey or maple syrup (optional)
+- Salt and pepper to taste
+
+---
+
+### Instructions:
+
+1. **Marinate the Chicken:**
+   - Zest half of the lemon and juice the entire lemon.
+   - In a small bowl, combine lemon zest, lemon juice, minced garlic, oregano, 2 tablespoons olive oil, salt, and pepper.
+   - Place the chicken breasts in a resealable bag or shallow dish, and pour the marinade over.
+   - Let it marinate in the fridge for at least 30 minutes, or up to 2 hours for more flavor.
+
+2. **Prepare the Grill:**
+   - Preheat your grill (or grill pan) to medium-high heat.
+   - Remove the chicken from the marinade, letting excess drip off.
+
+3. **Grill the Chicken:**
+   - Place the chicken breasts on the grill.
+   - Cook for about 6-7 minutes per side, or until the internal temperature reaches 165°F (74°C) and juices run clear.
+   - Remove from the grill and let rest for 5 minutes. Then, slice into strips.
+
+4. **Assemble the Salad:**
+   - In a large bowl, combine salad greens, cucumber slices, cherry tomatoes, red onion, and avocado if using.
+   - In a small jar or bowl, whisk together the dressing ingredients.
+   - Toss the salad with the dressing until well coated.
+
+5. **Serve:**
+   - Divide the salad onto plates.
+   - Top with grilled chicken slices.
+   - Garnish with fresh herbs.
+
+Enjoy this vibrant, clean-eating meal that’s full of flavor, protein, and healthy fats! It serves 2, perfect for a refreshing lunch or dinner.",True,,51_31,51,FAIL,"The recipe for Grilled Lemon Herb Chicken Salad mostly adheres to the Whole30 dietary restriction, which prohibits grains, dairy, legumes, sugar, alcohol, and processed foods. The main ingredients such as chicken, lemon, olive oil, garlic, oregano, salad greens, cucumber, cherry tomatoes, avocado, and red onion are all compliant with Whole30 guidelines. However, the dressing includes an optional ingredient: honey or maple syrup. Both honey and maple syrup are not allowed on Whole30 as they are considered added sugars. To fully comply with Whole30, the recipe should omit the honey or maple syrup from the dressing.",HIGH,True,"The recipe contains chicken, which is not considered clean eating by everyone but typically aligns with cleaner dietary preferences focused on whole, minimally processed foods. All other ingredients are fresh and nutritious, adhering to the clean eating philosophy.",PASS
+I want a cheeseburger but I'm dairy-free and vegetarian. I know this sounds impossible but I'm really craving the taste and texture of a classic American cheeseburger and I haven't had one in 3 years since I went vegetarian and developed lactose intolerance,vegetarian,"Absolutely, you can enjoy a delicious dairy-free, vegetarian cheeseburger that captures the classic flavors and textures! Here's a recipe for a **Vegan Mushroom & Lentil Patty Cheeseburger** that serves 2:
+
+### Ingredients:
+**For the burger patties:**
+- 1 cup cooked lentils (green or brown)
+- 1 cup finely chopped mushrooms (button or cremini)
+- 1 small grated carrot
+- 1 small onion, finely chopped
+- 2 cloves garlic, minced
+- 1/2 cup breadcrumbs (use gluten-free if needed)
+- 2 tbsp tomato paste
+- 1 tbsp soy sauce or tamari
+- 1 tsp smoked paprika
+- Salt and pepper to taste
+- 1 tbsp olive oil
+
+**For the toppings:**
+- 4 slices of dairy-free cheese (cheddar style)
+- 2 whole grain burger buns
+- Lettuce leaves
+- Tomato slices
+- Pickles (optional)
+- Red onion slices
+
+**For assembling:**
+- Vegan mayonnaise or ketchup
+- Mustard (optional)
+
+### Instructions:
+
+1. **Prepare the Burger Patties:**
+   - In a skillet, heat 1 tablespoon of olive oil over medium heat. Add the finely chopped mushrooms, onion, and garlic. Sauté until soft and most of the moisture evaporates, about 5-7 minutes.
+   - In a large mixing bowl, combine the cooked lentils, sautéed mushroom mixture, grated carrot, breadcrumbs, tomato paste, soy sauce, smoked paprika, salt, and pepper.
+   - Mash the mixture together using a fork or potato masher until well combined and sticky. If it feels too dry, add a splash of water; if too wet, add a bit more breadcrumbs.
+   - Divide the mixture into two equal portions and shape each into a patty about the size of your buns.
+
+2. **Cook the Patties:**
+   - Heat a little olive oil in a skillet over medium heat.
+   - Carefully place the patties in the skillet, cooking for about 4-5 minutes per side until golden brown.
+   - During the last minute of cooking, place a slice of dairy-free cheese on each patty and cover the skillet briefly to melt the cheese slightly.
+
+3. **Toast the Buns:**
+   - While the patties are cooking, lightly toast the burger buns cut side down on a separate pan or toaster.
+
+4. **Assemble the Cheeseburgers:**
+   - Spread vegan mayonnaise or ketchup on the bottom bun.
+   - Place a lettuce leaf, followed by the cheesy patty.
+   - Add tomato slices, pickles, and onion slices as desired.
+   - Cover with the top bun.
+
+5. **Serve:**
+   - Serve immediately with a side of sweet potato fries or salad. Enjoy your hearty, dairy-free vegetarian cheeseburger!
+
+This burger combines the umami-rich flavor of mushrooms and lentils with a satisfying texture, reminiscent of a classic cheeseburger while being entirely plant-based and lactose-free. Bon appétit!",True,,24_36,24,PASS,"The recipe provided is for a Vegan Mushroom & Lentil Patty Cheeseburger, which adheres to both the vegetarian and dairy-free dietary restrictions. The patty is made from lentils, mushrooms, and other plant-based ingredients, with no meat or fish, satisfying the vegetarian requirement. The use of dairy-free cheese ensures that the recipe is also suitable for someone who is lactose intolerant, adhering to the dairy-free restriction. All other ingredients, such as vegan mayonnaise and whole grain buns, are plant-based and do not contain any animal products or dairy.",HIGH,True,The recipe includes dairy-free cheese which adheres to the user’s dietary preference of being dairy-free and vegetarian. All ingredients align with the request for a cheeseburger suitable for a vegetarian and lactose-intolerant diet.,PASS
+Vegetarian protein that isn't beans - I hate beans,vegetarian,"Certainly! How about trying a flavorful Mushroom and Walnut Loaf? It's a hearty, protein-packed vegetarian dish, perfect for two people, and doesn't include beans.
+
+**Mushroom and Walnut Loaf (Serves 2)**
+
+**Ingredients:**
+- 1 cup mixed mushrooms (button, cremini, shiitake), finely chopped
+- 1/2 cup walnuts, chopped
+- 1 small onion, finely diced
+- 2 cloves garlic, minced
+- 1/2 cup cooked quinoa or oats
+- 1 large egg (or a flaxseed egg if vegan)
+- 2 tablespoons soy sauce or tamari
+- 1 teaspoon dried thyme
+- 1 teaspoon dried rosemary
+- Salt and pepper to taste
+- Olive oil
+
+**Instructions:**
+
+1. **Preheat your oven** to 350°F (175°C). Line a small loaf pan or shape into a loaf on a baking sheet lined with parchment paper.
+
+2. **Prepare the vegetables:** 
+   In a skillet, heat 1 tablespoon of olive oil over medium heat. Add the finely diced onion and cook for about 3 minutes until translucent. Add the minced garlic and cook for another 30 seconds, until fragrant.
+
+3. **Cook the mushrooms:** 
+   Add the chopped mushrooms to the skillet. Cook, stirring occasionally, until the mushrooms release their moisture and are tender, about 8 minutes. Remove from heat and let cool slightly.
+
+4. **Mix the loaf ingredients:** 
+   In a large bowl, combine the cooked mushrooms and onion mixture, chopped walnuts, cooked quinoa or oats, soy sauce, thyme, rosemary, salt, and pepper. Mix well. If using raw egg, whisk it and add it to the mixture for binding.
+
+5. **Form the loaf:**
+   Transfer the mixture into the prepared loaf pan or shape it into a loaf on the baking sheet. Press gently to compact.
+
+6. **Bake:** 
+   Bake in the preheated oven for about 30-35 minutes until firm and golden brown on top.
+
+7. **Serve:** 
+   Let it cool slightly for 5 minutes before slicing. Serve with a side salad or steamed vegetables.
+
+Enjoy this hearty, protein-rich mushroom and walnut loaf that's perfect for a satisfying vegetarian meal!",True,,57_5,57,PASS,"The recipe for Mushroom and Walnut Loaf adheres to the vegetarian dietary restriction as it does not include any meat or fish. The ingredients listed, such as mushrooms, walnuts, onion, garlic, quinoa or oats, and egg, are all suitable for a vegetarian diet. The use of an egg is permissible in a vegetarian diet, and the option to use a flaxseed egg is provided for those who prefer a vegan alternative. The cooking methods, including baking and sautéing, do not introduce any non-vegetarian elements. Therefore, the recipe is consistent with the vegetarian dietary restriction.",HIGH,True,"The recipe for Mushroom and Walnut Loaf does not include any beans and adheres to the user's dietary preference for vegetarian protein alternatives. Therefore, it is suitable.",PASS
+Vegetarian meal that has enough protein for my bodybuilder boyfriend,vegetarian,"Certainly! I recommend trying a **Tofu & Chickpea Stir-Fry**—a hearty, protein-packed vegetarian dish perfect for a bodybuilder. It’s flavorful, nutritious, and easy to prepare. Here's the recipe for 2 servings:
+
+### Tofu & Chickpea Stir-Fry
+
+**Ingredients:**
+- 14 oz (400 g) firm tofu
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 2 tablespoons soy sauce
+- 1 tablespoon sesame oil or vegetable oil
+- 1 teaspoon cornstarch (optional, for crisping tofu)
+- 1 red bell pepper, sliced
+- 1 yellow bell pepper, sliced
+- 2 cups broccoli florets
+- 3 cloves garlic, minced
+- 1-inch piece ginger, grated
+- 2 green onions, sliced (for garnish)
+- Sesame seeds (optional, for garnish)
+- Cooked rice or noodles (for serving)
+
+---
+
+### Instructions:
+
+1. **Prepare the Tofu:**
+   - Drain the tofu and gently press it between paper towels to remove excess moisture.
+   - Cut the tofu into bite-sized cubes.
+   - (Optional) Toss the tofu with cornstarch in a small bowl for extra crispiness.
+
+2. **Cook the Tofu:**
+   - Heat 1 tablespoon of oil in a large non-stick skillet or wok over medium-high heat.
+   - Add the tofu cubes and cook until golden brown on all sides, about 8-10 minutes, turning occasionally.
+   - Once cooked, remove from the skillet and set aside.
+
+3. **Stir-Fry the Vegetables:**
+   - In the same skillet, add a bit more oil if needed.
+   - Add the minced garlic and grated ginger; sauté for about 30 seconds until fragrant.
+   - Add the sliced bell peppers and broccoli florets.
+   - Stir-fry for 5-7 minutes until the vegetables are tender but still crisp.
+
+4. **Add Chickpeas & Tofu:**
+   - Return the tofu to the skillet along with the drained chickpeas.
+   - Pour in the soy sauce and sesame oil.
+   - Toss everything gently to coat evenly.
+   - Cook for an additional 2-3 minutes so flavors meld.
+
+5. **Serve:**
+   - Serve hot over cooked rice or noodles.
+   - Garnish with sliced green onions and sesame seeds if desired.
+
+---
+
+### Nutritional Note:
+This meal provides a substantial amount of plant-based protein from the tofu and chickpeas, perfect for supporting muscle growth and recovery. Enjoy this colorful, flavorful dish!",True,,34_6,34,PASS,"The recipe for Tofu & Chickpea Stir-Fry adheres to the vegetarian dietary restriction as it contains no meat or fish. The primary protein sources in the recipe are tofu and chickpeas, both of which are plant-based and suitable for a vegetarian diet. The use of soy sauce, sesame oil, and vegetables like bell peppers and broccoli are also compatible with vegetarian guidelines. The recipe does not include any non-vegetarian ingredients, and the preparation methods do not violate vegetarian principles.",HIGH,True,"The recipe includes firm tofu and chickpeas, both of which are excellent sources of plant-based protein and adhere to the user's vegetarian requirement. There are no non-vegetarian ingredients in the recipe.",PASS
+I avoid processed foods but I'm lazy,paleo,"Certainly! Here's a simple, healthy, and minimally processed recipe: **Garlic Lemon Pasta with Spinach**. It’s quick to make, flavorful, and ideal for a lazy day.
+
+### Ingredients (Serves 2):
+- 200g (about 7 oz) spaghetti or your favorite pasta
+- 2 tablespoons olive oil
+- 3 cloves garlic, minced
+- 1 lemon (zested and juiced)
+- 100g (about 3.5 oz) fresh spinach, roughly chopped
+- Salt and pepper to taste
+- Optional: a sprinkle of grated Parmesan or nutritional yeast for added flavor
+
+### Instructions:
+
+1. **Cook the Pasta:**
+   - Bring a large pot of salted water to a boil.
+   - Add the pasta and cook according to package instructions until al dente (about 8-10 minutes).
+   - Once cooked, reserve about 1/4 cup of pasta water, then drain the pasta and set aside.
+
+2. **Prepare the Garlic Olive Oil:**
+   - While the pasta cooks, heat the olive oil in a large skillet over medium heat.
+   - Add the minced garlic and sauté for about 1-2 minutes until fragrant, but not browned (browned garlic can taste bitter).
+
+3. **Combine and Flavor:**
+   - Lower the heat and add the cooked pasta to the skillet with garlic oil.
+   - Add the lemon zest and juice, stirring to coat the pasta evenly.
+   - If it seems dry, add a splash of the reserved pasta water to loosen it up.
+
+4. **Add Spinach:**
+   - Toss in the chopped spinach and cook for 1-2 minutes until wilted and bright green.
+   - Season with salt and pepper to taste.
+
+5. **Serve:**
+   - Divide into two bowls, optionally sprinkle with grated Parmesan or nutritional yeast.
+   - Serve immediately with extra lemon wedges if desired.
+
+### Tips:
+- You can add cherry tomatoes or leftover cooked vegetables for more variety and nutrients.
+- For a protein boost, toss in some canned chickpeas or cooked shrimp.
+
+Enjoy your fresh, quick, and delicious pasta!",True,,46_25,46,FAIL,"The recipe for 'Garlic Lemon Pasta with Spinach' does not adhere to the paleo dietary restriction. The primary ingredient, spaghetti or any typical pasta, is made from grains, which are not allowed on a paleo diet. Additionally, the optional use of Parmesan cheese is also not compliant with paleo guidelines, as dairy products are excluded. While the recipe avoids processed foods, the inclusion of grains and potential dairy makes it unsuitable for a paleo diet.",HIGH,True,"The recipe includes spaghetti which is often processed. However, it does not specify if it uses whole grain or a minimally processed type, making it ambiguous. Despite the other ingredients being whole and minimally processed, the potential for processed pasta leads to uncertainty.",FAIL
+Dairy-free but cheese is okay sometimes,dairy-free,"Let's make a flavorful **Garlic Chicken and Veggie Stir-Fry**—a hearty, dairy-free dish with a touch of cheese flavor from a dairy-free cheese alternative, if you like.
+
+### Ingredients:
+- 2 boneless, skinless chicken breasts, sliced into thin strips
+- 1 cup broccoli florets
+- 1 red bell pepper, sliced
+- 2 cloves garlic, minced
+- 2 tablespoons olive oil
+- 1 tablespoon soy sauce or tamari (gluten-free if needed)
+- 1 teaspoon honey or maple syrup (optional for a hint of sweetness)
+- ¼ cup dairy-free cheese shreds (optional)
+- Salt and pepper to taste
+- Optional garnish: sliced green onions or sesame seeds
+
+### Instructions:
+
+1. **Prepare the ingredients:** Slice the chicken breasts into thin strips for quick and even cooking. Wash and prepare the vegetables—broccoli florets and red bell pepper. Mince the garlic.
+
+2. **Cook the chicken:** Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat. Once hot, add the sliced chicken. Season with a pinch of salt and pepper. Cook for 4-5 minutes, stirring occasionally, until the chicken is browned and cooked through. Remove the chicken from the skillet and set aside.
+
+3. **Sauté the vegetables:** In the same skillet, add the remaining olive oil. Toss in the minced garlic and cook for 30 seconds until fragrant. Add the broccoli and bell pepper. Stir-fry for about 5-6 minutes until the vegetables are tender yet still crisp.
+
+4. **Combine and season:** Return the cooked chicken to the skillet with the vegetables. Add the soy sauce and honey (if using). Stir everything well to combine and heat through for another 2 minutes.
+
+5. **Add cheese (optional):** If using dairy-free cheese shreds, sprinkle them over the stir-fry while it's hot and cover for a minute just until they melt slightly.
+
+6. **Serve:** Dish out onto plates, garnish with sliced green onions or sesame seeds if desired, and serve hot.
+
+### Servings:
+- 2 servings
+
+Enjoy this quick, nutritious, and flavorful dairy-free stir-fry with a hint of cheesy goodness if you choose to include the dairy-free cheese!",True,,47_3,47,PASS,"The recipe is designed to be dairy-free, as it uses a dairy-free cheese alternative instead of traditional cheese. The use of dairy-free cheese shreds ensures that the dish adheres to the dairy-free dietary restriction. All other ingredients, such as chicken, vegetables, olive oil, soy sauce, and optional honey or maple syrup, do not contain dairy. The recipe provides an option to include a cheese flavor without using actual dairy products, which aligns with the dairy-free requirement.",HIGH,True,"The recipe adheres to the user's dietary preference of being dairy-free, and it includes an optional dairy-free cheese, which is acceptable since the user mentioned cheese is okay sometimes. There are no ingredients that would break the user's dietary guidelines.",PASS
+I'm on keto but I'm craving something sweet. Help?,keto,"Certainly! Here's a delightful Keto Lemon Cheesecake for two, satisfying your sweet tooth without breaking your diet.
+
+**Keto Lemon Cheesecake (Serves 2)**
+
+**Ingredients:**
+- 4 oz (115 g) cream cheese, softened
+- 2 tbsp powdered erythritol or your preferred keto sweetener
+- 1 large egg
+- 2 tbsp fresh lemon juice
+- 1 tsp lemon zest
+- 1/2 tsp vanilla extract
+- Pinch of salt
+- Optional: a few fresh berries for garnish
+
+**Instructions:**
+1. **Preheat your oven:** to 325°F (160°C). Prepare a small baking dish or ramekins with non-stick spray or line with parchment paper.
+   
+2. **Make the filling:** In a medium mixing bowl, beat the softened cream cheese until smooth using a hand mixer or whisk. Ensure there are no lumps for a creamy texture.
+   
+3. **Add sweetener and flavors:** Mix in the keto sweetener, lemon juice, lemon zest, vanilla extract, and a pinch of salt until well combined.
+   
+4. **Incorporate the egg:** Crack the egg into the mixture and beat until fully incorporated and smooth.
+   
+5. **Pour into molds:** Divide the filling evenly into your prepared ramekins or baking dish.
+
+6. **Bake:** Place in the preheated oven and bake for about 15-20 minutes or until the edges are set but the center still slightly jiggles.
+   
+7. **Cool:** Remove from oven and let cool to room temperature, then refrigerate for at least 1 hour before serving.
+
+8. **Serve:** Garnish with a few fresh berries or more lemon zest if desired, and enjoy your creamy, sweet keto treat!
+
+This cheesecake is rich, tangy, and perfectly sweet without disrupting your ketogenic goals. Would you like a different type of sweet keto treat next?",True,,15_31,15,PASS,"The recipe for Keto Lemon Cheesecake adheres to the keto dietary restriction. It uses cream cheese, which is high in fat and low in carbohydrates, making it suitable for a keto diet. The sweetener used is erythritol, a common keto-friendly sweetener that does not impact blood sugar levels. The recipe avoids high-carb ingredients and focuses on low-carb components like lemon juice and zest for flavor. The optional garnish of fresh berries is acceptable in moderation on a keto diet due to their relatively low carb content. The preparation method involves baking, which does not introduce any non-keto elements.",HIGH,True,"The recipe contains keto-friendly ingredients including cream cheese, erythritol, egg, and lemon juice, all of which adhere to a ketogenic diet. It does not include any high-carb ingredients, therefore it fits the user's keto preference while satisfying their craving for something sweet.",PASS
+Dairy-free but cheese is okay sometimes,dairy-free,"Great! Here's a delicious dairy-free Chickpea Salad Sandwich — perfect for a quick lunch or light dinner, serving 2 people.
+
+### Dairy-Free Chickpea Salad Sandwich
+
+**Ingredients:**
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 2 tablespoons vegan mayonnaise (or adjust to taste)
+- 1 teaspoon Dijon mustard
+- 1 teaspoon lemon juice
+- 1/2 teaspoon smoked paprika
+- Salt and pepper, to taste
+- 1/4 cup finely chopped red onion
+- 1/4 cup chopped celery
+- 2 slices of whole-grain bread (or your preferred bread)
+- Optional: fresh lettuce or spinach leaves
+- Optional: sliced pickles or tomato for added flavor
+
+**Steps:**
+
+1. **Prepare the Chickpeas:**  
+   In a medium bowl, use a fork or potato masher to mash the chickpeas until mostly chunky but with some small pieces remaining for texture.
+
+2. **Mix the Sauce:**  
+   In a small bowl, combine the vegan mayonnaise, Dijon mustard, lemon juice, smoked paprika, and a pinch of salt and pepper. Stir until smooth.
+
+3. **Combine the Salad:**  
+   Add the sauce to the mashed chickpeas. Mix well to coat evenly.
+
+4. **Add Vegetables:**  
+   Incorporate the chopped red onion and celery into the chickpea mixture. Stir everything together and taste; add more salt, pepper, or lemon juice if needed.
+
+5. **Assemble the Sandwich:**  
+   Spread the chickpea salad generously onto one slice of bread. If using, layer fresh lettuce or spinach on top. Cover with the second slice of bread.
+
+6. **Serve:**  
+   Cut the sandwich in half diagonally, serve immediately, and enjoy a tasty, filling, dairy-free meal!
+
+Would you like me to suggest a side dish or another recipe?",True,,47_30,47,PASS,"The recipe for the Dairy-Free Chickpea Salad Sandwich adheres to the dairy-free dietary restriction. All ingredients listed, including vegan mayonnaise, chickpeas, Dijon mustard, lemon juice, smoked paprika, red onion, celery, and whole-grain bread, are free from dairy products. The recipe explicitly uses vegan mayonnaise, which is a dairy-free alternative to traditional mayonnaise. There is no mention of cheese or any other dairy product in the ingredients or preparation steps. Therefore, the recipe is suitable for someone following a dairy-free diet.",HIGH,True,"The recipe is dairy-free and does not contain any dairy ingredients that would break the user's dietary preferences. While cheese is mentioned as acceptable occasionally, it is not included in this recipe.",PASS
+Comfort food that won't make me feel guilty,vegetarian,"I recommend making **Lemon Herb Grilled Chicken with Roasted Vegetables**. It's a comforting, flavorful dish that feels indulgent but is light and healthy. This recipe serves 2.
+
+**Ingredients:**
+- 2 boneless, skinless chicken breasts
+- 1 lemon (zested and juiced)
+- 2 cloves garlic, minced
+- 2 tablespoons olive oil
+- 1 teaspoon dried thyme or rosemary
+- Salt and freshly ground black pepper
+- 1 cup cherry tomatoes
+- 1 zucchini, sliced
+- 1 bell pepper, sliced
+- 1 teaspoon oregano
+- Fresh parsley for garnish (optional)
+
+**Steps:**
+
+1. **Marinate the Chicken:**
+   - In a small bowl, whisk together the lemon zest, lemon juice, minced garlic, olive oil, thyme/rosemary, salt, and pepper.
+   - Place the chicken breasts in a zip-top bag or shallow dish. Pour the marinade over the chicken, ensuring it's well coated.
+   - Seal or cover and refrigerate for at least 30 minutes, or up to 2 hours for more flavor.
+
+2. **Prepare the Vegetables:**
+   - Preheat your oven to 400°F (200°C).
+   - In a mixing bowl, toss cherry tomatoes, zucchini, and bell pepper slices with a teaspoon of olive oil, oregano, salt, and pepper.
+   - Spread the vegetables on a baking sheet lined with parchment paper.
+
+3. **Cook the Chicken:**
+   - Heat a grill or grill pan over medium-high heat.
+   - Remove the chicken from the marinade, letting excess drip off.
+   - Grill the chicken for 6-8 minutes per side, or until the internal temperature reaches 165°F (75°C) and the juices run clear.
+   - Transfer to a plate and let rest for 5 minutes.
+
+4. **Roast the Vegetables:**
+   - While the chicken is grilling, roast the vegetables in the oven for about 15-20 minutes, or until tender and slightly caramelized.
+
+5. **Serve:**
+   - Slice the grilled chicken into strips.
+   - Plate the chicken alongside the roasted vegetables.
+   - Garnish with chopped fresh parsley if desired.
+   
+This meal is light, packed with fresh flavors, and satisfying without heaviness. Enjoy!",True,,43_9,43,FAIL,"The recipe response includes 'Lemon Herb Grilled Chicken with Roasted Vegetables,' which contains chicken breasts as a primary ingredient. The dietary restriction specified is vegetarian, which excludes all forms of meat, including chicken. Therefore, the inclusion of chicken in the recipe directly violates the vegetarian dietary restriction.",HIGH,True,"The recipe includes chicken and olive oil, which may not align with the user's preference for comfort food that won't make them feel guilty. However, there are no explicitly unhealthy or non-comforting ingredients, and the dish is described as light and healthy. Thus, it can be considered a healthy comfort food option.",PASS
+Vegetarian pizza but I don't like mushrooms or bell peppers,vegetarian,"Let's make a delicious Margherita Vegetable Pizza, perfect for two people. This classic vegetarian pizza is flavorful without mushrooms or bell peppers, using fresh ingredients and a crispy crust.
+
+**Ingredients:**
+- 1 premade pizza dough (about 250g)
+- 1/2 cup tomato sauce (preferably chunky or smooth, based on preference)
+- 1 1/2 cups shredded mozzarella cheese
+- 1 small zucchini, thinly sliced
+- 1 small red onion, thinly sliced
+- 10 cherry tomatoes, halved
+- 1/2 teaspoon dried oregano
+- 1/2 teaspoon dried basil (or fresh basil leaves if available)
+- Olive oil for drizzling
+- Salt and pepper to taste
+
+**Instructions:**
+
+1. **Preheat the oven:** Set your oven to 220°C (430°F). If you have a pizza stone, place it in the oven while preheating to get a crispier crust.
+
+2. **Prepare the dough:** Lightly dust a clean surface with flour. Roll out the pizza dough into a 12-inch circle, about 1/4 inch thick. Transfer it to a parchment-lined baking sheet or a pizza peel if using a pizza stone.
+
+3. **Spread the tomato sauce:** Using a spoon, evenly spread the tomato sauce over the base, leaving a small border around the edges for the crust.
+
+4. **Add cheese:** Sprinkle the shredded mozzarella evenly across the sauce.
+
+5. **Arrange the vegetables:** Distribute the sliced zucchini, red onion, and cherry tomato halves on top of the cheese. Try to space them out evenly for balanced flavor.
+
+6. **Season:** Sprinkle dried oregano, basil, salt, and pepper over the top. Drizzle a little olive oil over the entire pizza for added flavor and crispiness.
+
+7. **Bake:** Place the pizza in the preheated oven on the middle rack (or on the hot pizza stone). Bake for about 12-15 minutes, or until the crust is golden and crispy and the cheese has melted and slightly bubbly.
+
+8. **Finish and serve:** Remove from the oven. If you like, add fresh basil leaves on top or a drizzle of olive oil. Let it rest for a couple of minutes before slicing.
+
+**Serving suggestion:** Cut the pizza into four slices and serve hot with a simple side salad or your favorite cold beverage.
+
+Enjoy your fresh, flavorful vegetarian pizza! Would you like a dessert idea to go with it?",True,,5_12,5,PASS,"The recipe for Margherita Vegetable Pizza adheres to the vegetarian dietary restriction. It includes no meat or fish, and the use of mozzarella cheese is acceptable within a vegetarian diet. The recipe avoids mushrooms and bell peppers, as specified in the query. All other ingredients, such as tomato sauce, zucchini, red onion, cherry tomatoes, and herbs, are plant-based and suitable for vegetarians. The preparation method involves baking, which does not introduce any non-vegetarian elements.",HIGH,True,"The recipe does not include mushrooms or bell peppers, adhering to the user's dietary preferences for a vegetarian pizza. It includes other vegetables such as zucchini, red onion, and cherry tomatoes which are acceptable.",PASS
